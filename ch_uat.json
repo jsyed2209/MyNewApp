@@ -1,0 +1,241 @@
+[{
+        "_id" : "EOS-173",
+        "RM_ID" : {
+                "RM-104189" : {
+                        "component" : {
+                                "1137~cbs" : {
+                                        "commit_ids" : [
+                                                "afdfccd"
+                                        ]
+                                },
+                                "1460~cbs" : {
+                                        "commit_ids" : [
+                                                "afdfccd"
+                                        ]
+                                },
+                                "common/globals_appsrv_configuration~cbs" : {
+                                        "commit_ids" : [
+                                                "76b84b4"
+                                        ]
+                                }
+                        },
+                        "deployed_time" : "2018_09_21_05_57_27"
+                }
+        }
+}
+{
+        "_id" : "EOS-172",
+        "RM_ID" : {
+                "RM-104180" : {
+                        "component" : {
+                                "1137~cbs" : {
+                                        "commit_ids" : [
+                                                "afdfccd"
+                                        ]
+                                },
+                                "1461~cbs" : {
+                                        "commit_ids" : [
+                                                "afdfccd"
+                                        ]
+                                },
+                                "1460~cbs" : {
+                                        "commit_ids" : [
+                                                "afdfccd"
+                                        ]
+                                },
+                                "common/globals_appsrv_configuration~cbs" : {
+                                        "commit_ids" : [
+                                                "76b84b4"
+                                        ]
+                                }
+                        },
+                        "deployed_time" : "2018_09_21_09_57_27"
+                }
+        }
+}
+{
+        "_id" : "LGSD-7012",
+        "RM_ID" : {
+                "RM-104711" : {
+                        "component" : {
+                                "common/globals_appsrv_configuration~cbs" : {
+                                        "commit_ids" : [
+                                                "9a3670f"
+                                        ]
+                                }
+                        },
+                        "deployed_time" : "2018_09_29_05_51_32"
+                }
+        }
+}
+{
+        "_id" : "LGSD-7144",
+        "RM_ID" : {
+                "RM-111137" : {
+                        "component" : {
+                                "common/globals_appsrv_logistics~cbs" : {
+                                        "commit_ids" : [
+                                                "8e839e9"
+                                        ]
+                                },
+                                "jobs/DMM_vitria_return~cbs" : {
+                                        "commit_ids" : [
+                                                "8e839e9"
+                                        ]
+                                },
+                                "1461~cbs" : {
+                                        "commit_ids" : [
+                                                "afdfccd"
+                                        ]
+                                },
+                                "1460~cbs" : {
+                                        "commit_ids" : [
+                                                "afdfccd"
+                                        ]
+                                },
+                                "jobs/asap_upd_cly~cbs" : {
+                                        "commit_ids" : [
+                                                "8e839e9"
+                                        ]
+                                }
+                        },
+                        "deployed_time" : "2018_10_30_15_47_22"
+                }
+        }
+}
+{
+        "_id" : "EOS-261",
+        "RM_ID" : {
+                "RM-103473" : {
+                        "component" : {
+                                "2008~cbs" : {
+                                        "commit_ids" : [
+                                                "c33e419"
+                                        ]
+                                },
+                                "1460~cbs" : {
+                                        "commit_ids" : [
+                                                "afdfccd"
+                                        ]
+                                },
+                                "1461~cbs" : {
+                                        "commit_ids" : [
+                                                "afdfccd"
+                                        ]
+                                },
+                                "common/globals_appsrv_plus_tv~cbs" : {
+                                        "commit_ids" : [
+                                                "3ff2ff6"
+                                        ]
+                                }
+                        },
+                        "deployed_time" : "2018_12_06_15_08_57"
+                }
+        }
+}
+{
+        "_id" : "LGSD-6954",
+        "RM_ID" : {
+                "RM-103758" : {
+                        "component" : {
+                                "common/globals_appsrv_logistics~cbs" : {
+                                        "commit_ids" : [
+                                                "558a284"
+                                        ]
+                                }
+                        },
+                        "1460~cbs" : {
+                                "commit_ids" : [
+                                        "afdfccd"
+                                ]
+                        },
+                        "deployed_time" : "2018_11_13_11_45_57"
+                }
+        }
+}
+{
+        "_id" : "EOS-264",
+        "RM_ID" : {
+                "RM-105524" : {
+                        "component" : {
+                                "jobs/Mig2DMM/D4A_SWAP~cbs" : {
+                                        "commit_ids" : [
+                                                "08ba53d"
+                                        ]
+                                }
+                        },
+                        "1460~cbs" : {
+                                "commit_ids" : [
+                                        "afdfccd"
+                                ]
+                        },
+                        "deployed_time" : "2018_09_29_17_59_11"
+                }
+        }
+}
+{
+        "_id" : "EOS-119",
+        "RM_ID" : {
+                "RM-103478" : {
+                        "component" : {
+                                "1401~cbs" : {
+                                        "commit_ids" : [
+                                                "c9ca890"
+                                        ]
+                                },
+                                "1460~cbs" : {
+                                        "commit_ids" : [
+                                                "afdfccd"
+                                        ]
+                                },
+                                "1445~cbs" : {
+                                        "commit_ids" : [
+                                                "c9ca890"
+                                        ]
+                                }
+                        },
+                        "deployed_time" : "2018_01_02_16_36_08"
+                }
+        }
+}
+{
+        "_id" : "LGSD-6655",
+        "RM_ID" : {
+                "RM-104605" : {
+                        "component" : {
+                                "1163~cbs" : {
+                                        "commit_ids" : [
+                                                "a774436"
+                                        ]
+                                },
+                                "1163~dat" : {
+                                        "commit_ids" : [
+                                                "a774436"
+                                        ]
+                                },
+                                "1171~cbs" : {
+                                        "commit_ids" : [
+                                                "a774436"
+                                        ]
+                                },
+                                "1171~dat" : {
+                                        "commit_ids" : [
+                                                "a774436"
+                                        ]
+                                },
+                                "1460~cbs" : {
+                                        "commit_ids" : [
+                                                "afdfccd"
+                                        ]
+                                },
+                                "globals_menus~cbs" : {
+                                        "commit_ids" : [
+                                                "e9431e0"
+                                        ]
+                                }
+                        },
+                        "deployed_time" : "2018_01_27_10_44_12"
+                }
+        }
+}
+]
