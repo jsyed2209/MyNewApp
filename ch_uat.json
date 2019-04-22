@@ -1,241 +1,5340 @@
 [{
-        "_id" : "EOS-173",
-        "RM_ID" : {
-                "RM-104189" : {
-                        "component" : {
-                                "1137~cbs" : {
-                                        "commit_ids" : [
-                                                "afdfccd"
-                                        ]
-                                },
-                                "1460~cbs" : {
-                                        "commit_ids" : [
-                                                "afdfccd"
-                                        ]
-                                },
-                                "common/globals_appsrv_configuration~cbs" : {
-                                        "commit_ids" : [
-                                                "76b84b4"
-                                        ]
-                                }
-                        },
-                        "deployed_time" : "2018_09_21_05_57_27"
-                }
-        }
-}
-{
-        "_id" : "EOS-172",
-        "RM_ID" : {
-                "RM-104180" : {
-                        "component" : {
-                                "1137~cbs" : {
-                                        "commit_ids" : [
-                                                "afdfccd"
-                                        ]
-                                },
-                                "1461~cbs" : {
-                                        "commit_ids" : [
-                                                "afdfccd"
-                                        ]
-                                },
-                                "1460~cbs" : {
-                                        "commit_ids" : [
-                                                "afdfccd"
-                                        ]
-                                },
-                                "common/globals_appsrv_configuration~cbs" : {
-                                        "commit_ids" : [
-                                                "76b84b4"
-                                        ]
-                                }
-                        },
-                        "deployed_time" : "2018_09_21_09_57_27"
-                }
-        }
-}
-{
-        "_id" : "LGSD-7012",
-        "RM_ID" : {
-                "RM-104711" : {
-                        "component" : {
-                                "common/globals_appsrv_configuration~cbs" : {
-                                        "commit_ids" : [
-                                                "9a3670f"
-                                        ]
-                                }
-                        },
-                        "deployed_time" : "2018_09_29_05_51_32"
-                }
-        }
-}
-{
-        "_id" : "LGSD-7144",
-        "RM_ID" : {
-                "RM-111137" : {
-                        "component" : {
-                                "common/globals_appsrv_logistics~cbs" : {
-                                        "commit_ids" : [
-                                                "8e839e9"
-                                        ]
-                                },
-                                "jobs/DMM_vitria_return~cbs" : {
-                                        "commit_ids" : [
-                                                "8e839e9"
-                                        ]
-                                },
-                                "1461~cbs" : {
-                                        "commit_ids" : [
-                                                "afdfccd"
-                                        ]
-                                },
-                                "1460~cbs" : {
-                                        "commit_ids" : [
-                                                "afdfccd"
-                                        ]
-                                },
-                                "jobs/asap_upd_cly~cbs" : {
-                                        "commit_ids" : [
-                                                "8e839e9"
-                                        ]
-                                }
-                        },
-                        "deployed_time" : "2018_10_30_15_47_22"
-                }
-        }
-}
-{
-        "_id" : "EOS-261",
-        "RM_ID" : {
-                "RM-103473" : {
-                        "component" : {
-                                "2008~cbs" : {
-                                        "commit_ids" : [
-                                                "c33e419"
-                                        ]
-                                },
-                                "1460~cbs" : {
-                                        "commit_ids" : [
-                                                "afdfccd"
-                                        ]
-                                },
-                                "1461~cbs" : {
-                                        "commit_ids" : [
-                                                "afdfccd"
-                                        ]
-                                },
-                                "common/globals_appsrv_plus_tv~cbs" : {
-                                        "commit_ids" : [
-                                                "3ff2ff6"
-                                        ]
-                                }
-                        },
-                        "deployed_time" : "2018_12_06_15_08_57"
-                }
-        }
-}
-{
-        "_id" : "LGSD-6954",
-        "RM_ID" : {
-                "RM-103758" : {
-                        "component" : {
-                                "common/globals_appsrv_logistics~cbs" : {
-                                        "commit_ids" : [
-                                                "558a284"
-                                        ]
-                                }
-                        },
-                        "1460~cbs" : {
-                                "commit_ids" : [
-                                        "afdfccd"
-                                ]
-                        },
-                        "deployed_time" : "2018_11_13_11_45_57"
-                }
-        }
-}
-{
-        "_id" : "EOS-264",
-        "RM_ID" : {
-                "RM-105524" : {
-                        "component" : {
-                                "jobs/Mig2DMM/D4A_SWAP~cbs" : {
-                                        "commit_ids" : [
-                                                "08ba53d"
-                                        ]
-                                }
-                        },
-                        "1460~cbs" : {
-                                "commit_ids" : [
-                                        "afdfccd"
-                                ]
-                        },
-                        "deployed_time" : "2018_09_29_17_59_11"
-                }
-        }
-}
-{
-        "_id" : "EOS-119",
-        "RM_ID" : {
-                "RM-103478" : {
-                        "component" : {
-                                "1401~cbs" : {
-                                        "commit_ids" : [
-                                                "c9ca890"
-                                        ]
-                                },
-                                "1460~cbs" : {
-                                        "commit_ids" : [
-                                                "afdfccd"
-                                        ]
-                                },
-                                "1445~cbs" : {
-                                        "commit_ids" : [
-                                                "c9ca890"
-                                        ]
-                                }
-                        },
-                        "deployed_time" : "2018_01_02_16_36_08"
-                }
-        }
-}
-{
-        "_id" : "LGSD-6655",
-        "RM_ID" : {
-                "RM-104605" : {
-                        "component" : {
-                                "1163~cbs" : {
-                                        "commit_ids" : [
-                                                "a774436"
-                                        ]
-                                },
-                                "1163~dat" : {
-                                        "commit_ids" : [
-                                                "a774436"
-                                        ]
-                                },
-                                "1171~cbs" : {
-                                        "commit_ids" : [
-                                                "a774436"
-                                        ]
-                                },
-                                "1171~dat" : {
-                                        "commit_ids" : [
-                                                "a774436"
-                                        ]
-                                },
-                                "1460~cbs" : {
-                                        "commit_ids" : [
-                                                "afdfccd"
-                                        ]
-                                },
-                                "globals_menus~cbs" : {
-                                        "commit_ids" : [
-                                                "e9431e0"
-                                        ]
-                                }
-                        },
-                        "deployed_time" : "2018_01_27_10_44_12"
-                }
-        }
-}
-]
+		"_id": "global_appsrv",
+		"RM_ID": {
+			"RM-119727": {
+				"release_version": "1.974",
+				"component": {
+					"common/globals_appsrv_configuration~cbs": {
+						"commit_ids": ["f6ebc2f30aa3f37094cf88e67ca1d2db252e1fb9"]
+					},
+					"common/custom-CH/globals_appsrv_configuration~cbs": {
+						"commit_ids": ["5853d90c83817ddeba71221b99fc290a6e23bdcc"]
+					}
+				},
+				"deployed_time": "2019_03_29_04_01_30"
+			}
+		}
+	}, {
+		"_id": "PBI000000237976",
+		"RM_ID": {
+			"RM-119057": {
+				"release_version": "1.216",
+				"component": {
+					"globals_appsrv_logistics~cbs": {
+						"commit_ids": ["aead2ff"]
+					}
+				},
+				"deployed_time": "2019_02_22_15_51_13"
+			}
+		}
+	}, {
+		"_id": "PBI000000237923",
+		"RM_ID": {
+			"RM-120607": {
+				"release_version": "1.162",
+				"component": {
+					"1461~cbs": {
+						"commit_ids": ["ccc525d"]
+					}
+				},
+				"deployed_time": "2019_03_29_04_57_33"
+			}
+		}
+	}, {
+		"_id": "PBI000000235353",
+		"RM_ID": {
+			"RM-120608": {
+				"release_version": "1.173",
+				"component": {
+					"common/globals_appsrv_configuration~cbs": {
+						"commit_ids": ["5a9b5e2"]
+					}
+				},
+				"deployed_time": "2019_03_29_05_00_37"
+			}
+		}
+	}, {
+		"_id": "PBI000000229675",
+		"RM_ID": {
+			"RM-114482": {
+				"release_version": "1.404",
+				"component": {
+					"common/Derby@Web/globals_web_functions~cbs": {
+						"commit_ids": ["f0cc606"]
+					}
+				},
+				"deployed_time": "2018_11_27_13_18_43"
+			}
+		}
+	}, {
+		"_id": "PBI000000227775",
+		"RM_ID": {
+			"RM-105525": {
+				"release_version": "1.785",
+				"component": {
+					"jobs/sif_asynch_cly~cbs": {
+						"commit_ids": ["779b8ce"]
+					}
+				},
+				"deployed_time": "2019_03_21_14_27_51"
+			}
+		}
+	}, {
+		"_id": "PBI000000226953",
+		"RM_ID": {
+			"RM-119727": {
+				"release_version": "1.238",
+				"component": {
+					"common/custom-CH/globals_appsrv_configuration~cbs": {
+						"commit_ids": ["5853d90"]
+					}
+				},
+				"deployed_time": "2019_03_29_04_59_15"
+			}
+		}
+	}, {
+		"_id": "PBI000000195470",
+		"RM_ID": {
+			"RM-106651": {
+				"release_version": "1.732",
+				"component": {
+					"jobs/sif_upd_cly~cbs": {
+						"commit_ids": ["e9a1af4"]
+					}
+				},
+				"deployed_time": "2018_11_23_09_20_24"
+			},
+			"RM-94683": {
+				"release_version": "1.102",
+				"component": {
+					"jobs/sif_upd_cly~cbs": {
+						"commit_ids": ["88a59d0"]
+					}
+				},
+				"deployed_time": "2018_04_25_16_00_58"
+			}
+		}
+	}, {
+		"_id": "PBI000000191919",
+		"RM_ID": {
+			"RM-98231": {
+				"release_version": "1.1012",
+				"component": {
+					"1216~cbs": {
+						"commit_ids": ["7b8c3b9"]
+					}
+				},
+				"deployed_time": "2018_06_13_15_42_26"
+			}
+		}
+	}, {
+		"_id": "LGSD-7363",
+		"RM_ID": {
+			"RM-122258": {
+				"release_version": "1.108",
+				"component": {
+					"rulemanager/c2asap/MVNO~cbs": {
+						"commit_ids": ["f66a40e"]
+					}
+				},
+				"deployed_time": "2019_03_27_15_10_33"
+			}
+		}
+	}, {
+		"_id": "LGSD-7264",
+		"RM_ID": {
+			"RM-121580": {
+				"release_version": "1.113",
+				"component": {
+					"jobs/IMS_CSV_LOAD~template": {
+						"commit_ids": ["c59d959"]
+					},
+					"jobs/Import_IMS_Migration_Data~sh": {
+						"commit_ids": ["c59d959"]
+					},
+					"jobs/Migrate_IMS_Customers~sh": {
+						"commit_ids": ["c59d959"]
+					},
+					"jobs/IMS_CSV_ROLLBACK~template": {
+						"commit_ids": ["c59d959"]
+					},
+					"jobs/Rollback_IMS_Customers~sh": {
+						"commit_ids": ["c59d959"]
+					}
+				},
+				"deployed_time": "2019_03_07_17_36_29"
+			}
+		}
+	}, {
+		"_id": "LGSD-7263",
+		"RM_ID": {
+			"RM-121580": {
+				"release_version": "1.113",
+				"component": {
+					"jobs/IMS_CSV_LOAD~template": {
+						"commit_ids": ["c59d959"]
+					},
+					"jobs/Import_IMS_Migration_Data~sh": {
+						"commit_ids": ["c59d959"]
+					},
+					"jobs/Migrate_IMS_Customers~sh": {
+						"commit_ids": ["c59d959"]
+					},
+					"jobs/IMS_CSV_ROLLBACK~template": {
+						"commit_ids": ["c59d959"]
+					},
+					"jobs/Rollback_IMS_Customers~sh": {
+						"commit_ids": ["c59d959"]
+					}
+				},
+				"deployed_time": "2019_03_07_17_36_29"
+			}
+		}
+	}, {
+		"_id": "LGSD-7262",
+		"RM_ID": {
+			"RM-121580": {
+				"release_version": "1.113",
+				"component": {
+					"jobs/IMS_CSV_LOAD~template": {
+						"commit_ids": ["c59d959"]
+					},
+					"jobs/Import_IMS_Migration_Data~sh": {
+						"commit_ids": ["c59d959"]
+					},
+					"jobs/Migrate_IMS_Customers~sh": {
+						"commit_ids": ["c59d959"]
+					},
+					"jobs/IMS_CSV_ROLLBACK~template": {
+						"commit_ids": ["c59d959"]
+					},
+					"jobs/Rollback_IMS_Customers~sh": {
+						"commit_ids": ["c59d959"]
+					}
+				},
+				"deployed_time": "2019_03_07_17_36_29"
+			}
+		}
+	}, {
+		"_id": "LGSD-7219",
+		"RM_ID": {
+			"RM-117328": {
+				"release_version": "1.330",
+				"component": {
+					"jobs/UpdateEmailForAllContact~sh": {
+						"commit_ids": ["eb5ba64"]
+					}
+				},
+				"deployed_time": "2019_02_01_16_40_16"
+			}
+		}
+	}, {
+		"_id": "LGSD-7216",
+		"RM_ID": {
+			"RM-118742": {
+				"release_version": "1.290",
+				"component": {
+					"jobs/Free_Cancelled_Reserved_DN~sql": {
+						"commit_ids": ["45d80ae"]
+					},
+					"jobs/Free_Cancelled_Reserved_DN~sh": {
+						"commit_ids": ["45d80ae"]
+					}
+				},
+				"deployed_time": "2019_03_04_05_26_57"
+			}
+		}
+	}, {
+		"_id": "LGSD-7208",
+		"RM_ID": {
+			"RM-117592": {
+				"release_version": "1.318",
+				"component": {
+					"507~dat": {
+						"commit_ids": ["05d3e41"]
+					},
+					"507~cbs": {
+						"commit_ids": ["05d3e41"]
+					}
+				},
+				"deployed_time": "2019_03_21_11_54_21"
+			}
+		}
+	}, {
+		"_id": "LGSD-7207",
+		"RM_ID": {
+			"RM-117412": {
+				"release_version": "1.325",
+				"component": {
+					"1202~cbs": {
+						"commit_ids": ["dc00263"]
+					},
+					"1210~cbs": {
+						"commit_ids": ["dc00263"]
+					}
+				},
+				"deployed_time": "2019_02_11_13_10_02"
+			}
+		}
+	}, {
+		"_id": "LGSD-7203",
+		"RM_ID": {
+			"RM-116679": {
+				"release_version": "1.343",
+				"component": {
+					"jobs/IMS_Link_Nodes_Script~sh": {
+						"commit_ids": ["b78882d"]
+					},
+					"jobs/IMS_Link_Nodes_Rollback_Script~sh": {
+						"commit_ids": ["b78882d"]
+					}
+				},
+				"deployed_time": "2019_02_14_18_18_37"
+			}
+		}
+	}, {
+		"_id": "LGSD-7188",
+		"RM_ID": {
+			"RM-116872": {
+				"release_version": "1.336",
+				"component": {
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["dcf17ca"]
+					}
+				},
+				"deployed_time": "2019_02_01_16_29_10"
+			}
+		}
+	}, {
+		"_id": "LGSD-7181",
+		"RM_ID": {
+			"RM-113931": {
+				"release_version": "1.427",
+				"component": {
+					"1037~cbs": {
+						"commit_ids": ["b98795e"]
+					},
+					"1037~dat": {
+						"commit_ids": ["b98795e"]
+					}
+				},
+				"deployed_time": "2018_11_29_10_19_31"
+			}
+		}
+	}, {
+		"_id": "LGSD-7177",
+		"RM_ID": {
+			"RM-114482": {
+				"release_version": "1.404",
+				"component": {
+					"common/Derby@Web/globals_web_functions~cbs": {
+						"commit_ids": ["f0cc606"]
+					}
+				},
+				"deployed_time": "2018_11_27_13_18_43"
+			}
+		}
+	}, {
+		"_id": "LGSD-7175",
+		"RM_ID": {
+			"RM-113651": {
+				"release_version": "1.433",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["fdf038f"]
+					}
+				},
+				"deployed_time": "2019_02_14_18_07_56"
+			}
+		}
+	}, {
+		"_id": "LGSD-7171",
+		"RM_ID": {
+			"RM-116428": {
+				"release_version": "1.349",
+				"component": {
+					"jobs/Mig2DMM/Mig2DMM_POD_POND~cbs": {
+						"commit_ids": ["43d8fc8"]
+					},
+					"507~cbs": {
+						"commit_ids": ["ae2ae2d"]
+					}
+				},
+				"deployed_time": "2019_03_21_12_29_36"
+			}
+		}
+	}, {
+		"_id": "LGSD-7169",
+		"RM_ID": {
+			"RM-112974": {
+				"release_version": "1.467",
+				"component": {
+					"1461~cbs": {
+						"commit_ids": ["c886e06"]
+					},
+					"common/globals_appsrv_plus_tv~cbs": {
+						"commit_ids": ["0c4522f"]
+					}
+				},
+				"deployed_time": "2018_11_27_13_34_23"
+			}
+		}
+	}, {
+		"_id": "LGSD-7168",
+		"RM_ID": {
+			"RM-113649": {
+				"release_version": "1.432",
+				"component": {
+					"jobs/DMM_vitria_return~cbs": {
+						"commit_ids": ["d00e646"]
+					}
+				},
+				"deployed_time": "2019_04_02_11_44_47"
+			}
+		}
+	}, {
+		"_id": "LGSD-7166",
+		"RM_ID": {
+			"RM-112571": {
+				"release_version": "1.482",
+				"component": {
+					"1037~cbs": {
+						"commit_ids": ["5fdc452"]
+					},
+					"1037~dat": {
+						"commit_ids": ["5fdc452"]
+					}
+				},
+				"deployed_time": "2018_11_22_00_08_04"
+			}
+		}
+	}, {
+		"_id": "LGSD-7165",
+		"RM_ID": {
+			"RM-116678": {
+				"release_version": "1.342",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["5f711e8"]
+					},
+					"9669~cbs": {
+						"commit_ids": ["5f711e8"]
+					},
+					"9150~cbs": {
+						"commit_ids": ["5f711e8"]
+					}
+				},
+				"deployed_time": "2019_03_29_04_14_27"
+			}
+		}
+	}, {
+		"_id": "LGSD-7162",
+		"RM_ID": {
+			"RM-112572": {
+				"release_version": "1.481",
+				"component": {
+					"1445~cbs": {
+						"commit_ids": ["0a3b00d"]
+					},
+					"1445~dat": {
+						"commit_ids": ["0a3b00d"]
+					}
+				},
+				"deployed_time": "2018_11_27_13_25_06"
+			}
+		}
+	}, {
+		"_id": "LGSD-7147",
+		"RM_ID": {
+			"RM-118279": {
+				"release_version": "1.304",
+				"component": {
+					"1136~cbs": {
+						"commit_ids": ["60cf17b"]
+					}
+				},
+				"deployed_time": "2019_03_21_14_22_38"
+			}
+		}
+	}, {
+		"_id": "LGSD-7132",
+		"RM_ID": {
+			"RM-109521": {
+				"release_version": "1.594",
+				"component": {
+					"507~dat": {
+						"commit_ids": ["aecc4b3"]
+					},
+					"507~cbs": {
+						"commit_ids": ["aecc4b3"]
+					}
+				},
+				"deployed_time": "2018_11_30_12_04_01"
+			}
+		}
+	}, {
+		"_id": "LGSD-7130",
+		"RM_ID": {
+			"RM-118275": {
+				"release_version": "1.308",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["3dc14d8"]
+					},
+					"1166~cbs": {
+						"commit_ids": ["3dc14d8"]
+					}
+				},
+				"deployed_time": "2019_03_29_04_49_10"
+			}
+		}
+	}, {
+		"_id": "LGSD-7129",
+		"RM_ID": {
+			"RM-118275": {
+				"release_version": "1.308",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["3dc14d8"]
+					},
+					"1166~cbs": {
+						"commit_ids": ["3dc14d8"]
+					}
+				},
+				"deployed_time": "2019_03_29_04_49_10"
+			}
+		}
+	}, {
+		"_id": "LGSD-7128",
+		"RM_ID": {
+			"RM-118275": {
+				"release_version": "1.308",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["3dc14d8"]
+					},
+					"1166~cbs": {
+						"commit_ids": ["3dc14d8"]
+					}
+				},
+				"deployed_time": "2019_03_29_04_49_10"
+			}
+		}
+	}, {
+		"_id": "LGSD-7123",
+		"RM_ID": {
+			"RM-109974": {
+				"release_version": "1.578",
+				"component": {
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["f0c0b88"]
+					},
+					"globals_appsrv_logistics~cbs": {
+						"commit_ids": ["462547e"]
+					}
+				},
+				"deployed_time": "2018_11_29_15_32_14"
+			}
+		}
+	}, {
+		"_id": "LGSD-7122",
+		"RM_ID": {
+			"RM-110048": {
+				"release_version": "1.572",
+				"component": {
+					"jobs/EOS_Main_Box_Update~sh": {
+						"commit_ids": ["fe868fb"]
+					},
+					"jobs/EOS_Main_Box_Update~sql": {
+						"commit_ids": ["fe868fb"]
+					}
+				},
+				"deployed_time": "2018_11_29_08_54_50"
+			}
+		}
+	}, {
+		"_id": "LGSD-7118",
+		"RM_ID": {
+			"RM-108091": {
+				"release_version": "1.655",
+				"component": {
+					"507~dat": {
+						"commit_ids": ["304bf32"]
+					},
+					"507~cbs": {
+						"commit_ids": ["304bf32"]
+					}
+				},
+				"deployed_time": "2018_11_12_11_10_37"
+			}
+		}
+	}, {
+		"_id": "LGSD-7117",
+		"RM_ID": {
+			"RM-112691": {
+				"release_version": "1.476",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["ab6b0ed"]
+					},
+					"jobs/Derby@Web/VCSR_Mobile~cbs": {
+						"commit_ids": ["97e3bdc"]
+					}
+				},
+				"deployed_time": "2018_11_30_15_24_41"
+			}
+		}
+	}, {
+		"_id": "LGSD-7115",
+		"RM_ID": {
+			"RM-109520": {
+				"release_version": "1.597",
+				"component": {
+					"1163~cbs": {
+						"commit_ids": ["273c3ea"]
+					}
+				},
+				"deployed_time": "2018_10_24_17_25_26"
+			}
+		}
+	}, {
+		"_id": "LGSD-7108",
+		"RM_ID": {
+			"RM-118275": {
+				"release_version": "1.308",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["3dc14d8"]
+					},
+					"1166~cbs": {
+						"commit_ids": ["3dc14d8"]
+					}
+				},
+				"deployed_time": "2019_03_29_04_49_10"
+			}
+		}
+	}, {
+		"_id": "LGSD-7107",
+		"RM_ID": {
+			"RM-105988": {
+				"release_version": "1.775",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["0d9a118"]
+					},
+					"1460~dat": {
+						"commit_ids": ["0d9a118"]
+					}
+				},
+				"deployed_time": "2018_09_20_15_25_26"
+			}
+		}
+	}, {
+		"_id": "LGSD-7101",
+		"RM_ID": {
+			"RM-106007": {
+				"release_version": "1.765",
+				"component": {
+					"1171~cbs": {
+						"commit_ids": ["9849793"]
+					},
+					"1171~dat": {
+						"commit_ids": ["9849793"]
+					}
+				},
+				"deployed_time": "2018_09_18_18_23_09"
+			}
+		}
+	}, {
+		"_id": "LGSD-7100",
+		"RM_ID": {
+			"RM-110936": {
+				"release_version": "1.532",
+				"component": {
+					"1110~dat": {
+						"commit_ids": ["c1dcfd4"]
+					},
+					"502~cbs": {
+						"commit_ids": ["c1dcfd4"]
+					},
+					"507~dat": {
+						"commit_ids": ["c1dcfd4"]
+					},
+					"502~dat": {
+						"commit_ids": ["c1dcfd4"]
+					},
+					"1222~dat": {
+						"commit_ids": ["c1dcfd4"]
+					},
+					"4004~dat": {
+						"commit_ids": ["c1dcfd4"]
+					},
+					"1005~dat": {
+						"commit_ids": ["c1dcfd4"]
+					}
+				},
+				"deployed_time": "2018_11_22_00_11_09"
+			}
+		}
+	}, {
+		"_id": "LGSD-7098",
+		"RM_ID": {
+			"RM-111211": {
+				"release_version": "1.530",
+				"component": {
+					"1037~cbs": {
+						"commit_ids": ["c2ba1f5"]
+					},
+					"1037~dat": {
+						"commit_ids": ["c2ba1f5"]
+					}
+				},
+				"deployed_time": "2018_11_22_00_04_29"
+			}
+		}
+	}, {
+		"_id": "LGSD-7097",
+		"RM_ID": {
+			"RM-111211": {
+				"release_version": "1.530",
+				"component": {
+					"1037~cbs": {
+						"commit_ids": ["c2ba1f5"]
+					},
+					"1037~dat": {
+						"commit_ids": ["c2ba1f5"]
+					}
+				},
+				"deployed_time": "2018_11_22_00_04_29"
+			}
+		}
+	}, {
+		"_id": "LGSD-7094",
+		"RM_ID": {
+			"RM-111211": {
+				"release_version": "1.530",
+				"component": {
+					"1037~cbs": {
+						"commit_ids": ["c2ba1f5"]
+					},
+					"1037~dat": {
+						"commit_ids": ["c2ba1f5"]
+					}
+				},
+				"deployed_time": "2018_11_22_00_04_29"
+			}
+		}
+	}, {
+		"_id": "LGSD-7093",
+		"RM_ID": {
+			"RM-111211": {
+				"release_version": "1.530",
+				"component": {
+					"1037~cbs": {
+						"commit_ids": ["c2ba1f5"]
+					},
+					"1037~dat": {
+						"commit_ids": ["c2ba1f5"]
+					}
+				},
+				"deployed_time": "2018_11_22_00_04_29"
+			}
+		}
+	}, {
+		"_id": "LGSD-7092",
+		"RM_ID": {
+			"RM-111211": {
+				"release_version": "1.530",
+				"component": {
+					"1037~cbs": {
+						"commit_ids": ["c2ba1f5"]
+					},
+					"1037~dat": {
+						"commit_ids": ["c2ba1f5"]
+					}
+				},
+				"deployed_time": "2018_11_22_00_04_29"
+			}
+		}
+	}, {
+		"_id": "LGSD-7089",
+		"RM_ID": {
+			"RM-107866": {
+				"release_version": "1.662",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["8d44f22"]
+					},
+					"rulemanager/c2asap/MVNO~cbs": {
+						"commit_ids": ["e4d7cd7"]
+					}
+				},
+				"deployed_time": "2018_10_31_09_37_24"
+			}
+		}
+	}, {
+		"_id": "LGSD-7084",
+		"RM_ID": {
+			"RM-112691": {
+				"release_version": "1.476",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["ab6b0ed"]
+					},
+					"jobs/Derby@Web/VCSR_Mobile~cbs": {
+						"commit_ids": ["97e3bdc"]
+					}
+				},
+				"deployed_time": "2018_11_30_15_24_41"
+			}
+		}
+	}, {
+		"_id": "LGSD-7083",
+		"RM_ID": {
+			"RM-112573": {
+				"release_version": "1.479",
+				"component": {
+					"common/globals_appsrv_configuration~cbs": {
+						"commit_ids": ["4756eb5"]
+					}
+				},
+				"deployed_time": "2018_11_21_23_46_33"
+			}
+		}
+	}, {
+		"_id": "LGSD-7082",
+		"RM_ID": {
+			"RM-112437": {
+				"release_version": "1.477",
+				"component": {
+					"1173~cbs": {
+						"commit_ids": ["be54c6f"]
+					},
+					"9136~cbs": {
+						"commit_ids": ["be54c6f"]
+					},
+					"9136~dat": {
+						"commit_ids": ["be54c6f"]
+					},
+					"9133~dat": {
+						"commit_ids": ["be54c6f"]
+					},
+					"9133~cbs": {
+						"commit_ids": ["be54c6f"]
+					},
+					"1173~dat": {
+						"commit_ids": ["be54c6f"]
+					},
+					"9141~dat": {
+						"commit_ids": ["be54c6f"]
+					},
+					"1149~cbs": {
+						"commit_ids": ["be54c6f"]
+					}
+				},
+				"deployed_time": "2018_11_27_16_57_35"
+			}
+		}
+	}, {
+		"_id": "LGSD-7067",
+		"RM_ID": {
+			"RM-106521": {
+				"release_version": "1.741",
+				"component": {
+					"jobs/sendOrders2ASSURANCEAPP~cbs": {
+						"commit_ids": ["8e12900"]
+					},
+					"1461~cbs": {
+						"commit_ids": ["346d4e4"]
+					},
+					"jobs/receiveOrdersFromASSURANCEAPP~cbs": {
+						"commit_ids": ["8e12900"]
+					}
+				},
+				"deployed_time": "2018_12_11_12_57_45"
+			}
+		}
+	}, {
+		"_id": "LGSD-7063",
+		"RM_ID": {
+			"RM-107246": {
+				"release_version": "1.692",
+				"component": {
+					"globals_appsrv_logistics~cbs": {
+						"commit_ids": ["729290e"]
+					}
+				},
+				"deployed_time": "2018_11_21_14_29_46"
+			}
+		}
+	}, {
+		"_id": "LGSD-7062",
+		"RM_ID": {
+			"RM-105524": {
+				"release_version": "1.790",
+				"component": {
+					"jobs/Mig2DMM/D4A_SWAP~cbs": {
+						"commit_ids": ["08ba53d"]
+					}
+				},
+				"deployed_time": "2018_10_24_18_16_06"
+			}
+		}
+	}, {
+		"_id": "LGSD-7053",
+		"RM_ID": {
+			"RM-106376": {
+				"release_version": "1.746",
+				"component": {
+					"431~cbs": {
+						"commit_ids": ["b180ffd"]
+					},
+					"431~dat": {
+						"commit_ids": ["b180ffd"]
+					}
+				},
+				"deployed_time": "2018_10_08_10_23_56"
+			}
+		}
+	}, {
+		"_id": "LGSD-7052",
+		"RM_ID": {
+			"RM-106538": {
+				"release_version": "1.736",
+				"component": {
+					"9150~cbs": {
+						"commit_ids": ["8fca28d"]
+					},
+					"1005~cbs": {
+						"commit_ids": ["8fca28d"]
+					}
+				},
+				"deployed_time": "2018_10_25_11_14_20"
+			}
+		}
+	}, {
+		"_id": "LGSD-7051",
+		"RM_ID": {
+			"RM-105329": {
+				"release_version": "1.800",
+				"component": {
+					"9150~cbs": {
+						"commit_ids": ["6df4821"]
+					},
+					"1005~cbs": {
+						"commit_ids": ["6df4821"]
+					}
+				},
+				"deployed_time": "2018_10_11_23_43_31"
+			}
+		}
+	}, {
+		"_id": "LGSD-7050",
+		"RM_ID": {
+			"RM-106760": {
+				"release_version": "1.728",
+				"component": {
+					"507~cbs": {
+						"commit_ids": ["d715efc"]
+					}
+				},
+				"deployed_time": "2018_10_24_18_21_47"
+			}
+		}
+	}, {
+		"_id": "LGSD-7049",
+		"RM_ID": {
+			"RM-107448": {
+				"release_version": "1.691",
+				"component": {
+					"1467~cbs": {
+						"commit_ids": ["30537e9"]
+					}
+				},
+				"deployed_time": "2018_10_03_11_50_26"
+			}
+		}
+	}, {
+		"_id": "LGSD-7048",
+		"RM_ID": {
+			"RM-106633": {
+				"release_version": "1.694",
+				"component": {
+					"1065~cbs": {
+						"commit_ids": ["da52d3a"]
+					},
+					"1014~cbs": {
+						"commit_ids": ["da52d3a"]
+					}
+				},
+				"deployed_time": "2018_10_03_10_55_26"
+			}
+		}
+	}, {
+		"_id": "LGSD-7006",
+		"RM_ID": {
+			"RM-104714": {
+				"release_version": "1.828",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["1c1a9ba"]
+					}
+				},
+				"deployed_time": "2018_09_11_12_06_32"
+			}
+		}
+	}, {
+		"_id": "LGSD-7005",
+		"RM_ID": {
+			"RM-106626": {
+				"release_version": "1.733",
+				"component": {
+					"1046~cbs": {
+						"commit_ids": ["2ba45a5"]
+					}
+				},
+				"deployed_time": "2018_10_24_18_00_09"
+			}
+		}
+	}, {
+		"_id": "LGSD-7004",
+		"RM_ID": {
+			"RM-104796": {
+				"release_version": "1.823",
+				"component": {
+					"jobs/Derby@Web/VCSR~cbs": {
+						"commit_ids": ["3ae156c"]
+					}
+				},
+				"deployed_time": "2018_09_28_11_29_44"
+			}
+		}
+	}, {
+		"_id": "LGSD-6985",
+		"RM_ID": {
+			"RM-104363": {
+				"release_version": "1.837",
+				"component": {
+					"11400~dat": {
+						"commit_ids": ["3edbb83"]
+					},
+					"11400~cbs": {
+						"commit_ids": ["3edbb83"]
+					}
+				},
+				"deployed_time": "2018_09_12_17_44_40"
+			}
+		}
+	}, {
+		"_id": "LGSD-6983",
+		"RM_ID": {
+			"RM-105573": {
+				"release_version": "1.783",
+				"component": {
+					"globals_appsrv_DMM_tux~cbs": {
+						"commit_ids": ["774a0c5"]
+					}
+				},
+				"deployed_time": "2018_09_28_12_32_10"
+			}
+		}
+	}, {
+		"_id": "LGSD-6982",
+		"RM_ID": {
+			"RM-103478": {
+				"release_version": "1.894",
+				"component": {
+					"1401~cbs": {
+						"commit_ids": ["c9ca890"]
+					},
+					"1445~cbs": {
+						"commit_ids": ["c9ca890"]
+					}
+				},
+				"deployed_time": "2018_08_22_17_37_23"
+			}
+		}
+	}, {
+		"_id": "LGSD-6961",
+		"RM_ID": {
+			"RM-104647": {
+				"release_version": "1.838",
+				"component": {
+					"519~cbs": {
+						"commit_ids": ["284fc7f"]
+					},
+					"519~dat": {
+						"commit_ids": ["284fc7f"]
+					}
+				},
+				"deployed_time": "2018_10_17_13_34_18"
+			}
+		}
+	}, {
+		"_id": "LGSD-6959",
+		"RM_ID": {
+			"RM-101908": {
+				"release_version": "1.942",
+				"component": {
+					"1014~cbs": {
+						"commit_ids": ["f4cbe4a"]
+					}
+				},
+				"deployed_time": "2018_07_24_17_44_45"
+			}
+		}
+	}, {
+		"_id": "LGSD-6951",
+		"RM_ID": {
+			"RM-101887": {
+				"release_version": "1.944",
+				"component": {
+					"jobs/Derby@Web/VCSR~cbs": {
+						"commit_ids": ["90b55fa"]
+					}
+				},
+				"deployed_time": "2018_08_01_13_48_20"
+			}
+		}
+	}, {
+		"_id": "LGSD-6936",
+		"RM_ID": {
+			"RM-97590": {
+				"release_version": "1.37",
+				"component": {
+					"common/Derby@Web/globals_web_functions~cbs": {
+						"commit_ids": ["ab82fad"]
+					},
+					"common/globals_appsrv_configuration~cbs": {
+						"commit_ids": ["ab82fad"]
+					},
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["ab82fad"]
+					},
+					"jobs/Derby@Web/VCSR~cbs": {
+						"commit_ids": ["ab82fad"]
+					},
+					"jobs/Mig2DMM/Mig2DMM_Proc~cbs": {
+						"commit_ids": ["ab82fad"]
+					},
+					"globals_appsrv_logistics~cbs": {
+						"commit_ids": ["f50a90c"]
+					}
+				},
+				"deployed_time": "2018_07_12_17_53_45"
+			}
+		}
+	}, {
+		"_id": "LGSD-6934",
+		"RM_ID": {
+			"RM-104461": {
+				"release_version": "1.836",
+				"component": {
+					"globals_appsrv_configuration~cbs": {
+						"commit_ids": ["3b7526a"]
+					},
+					"1205~cbs": {
+						"commit_ids": ["2e6a099"]
+					}
+				},
+				"deployed_time": "2018_10_03_10_04_54"
+			}
+		}
+	}, {
+		"_id": "LGSD-6930",
+		"RM_ID": {
+			"RM-103785": {
+				"release_version": "1.877",
+				"component": {
+					"1461~cbs": {
+						"commit_ids": ["ef2c7fd"]
+					}
+				},
+				"deployed_time": "2018_10_25_10_55_36"
+			}
+		}
+	}, {
+		"_id": "LGSD-6922",
+		"RM_ID": {
+			"RM-99804": {
+				"release_version": "1.983",
+				"component": {
+					"rulemanager/c2asap/cpe_line_activation~cbs": {
+						"commit_ids": ["c8cd274"]
+					}
+				},
+				"deployed_time": "2018_07_06_08_03_33"
+			}
+		}
+	}, {
+		"_id": "LGSD-6906",
+		"RM_ID": {
+			"RM-100795": {
+				"release_version": "1.971",
+				"component": {
+					"common/globals_appsrv_Mig2DMM~cbs": {
+						"commit_ids": ["1cad4e6"]
+					},
+					"common/globals_appsrv_configuration~cbs": {
+						"commit_ids": ["1cad4e6"]
+					},
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["1cad4e6"]
+					},
+					"1014~cbs": {
+						"commit_ids": ["de3b4e2"]
+					},
+					"1460~cbs": {
+						"commit_ids": ["de3b4e2"]
+					}
+				},
+				"deployed_time": "2018_10_25_10_43_00"
+			}
+		}
+	}, {
+		"_id": "LGSD-6905",
+		"RM_ID": {
+			"RM-100795": {
+				"release_version": "1.971",
+				"component": {
+					"common/globals_appsrv_Mig2DMM~cbs": {
+						"commit_ids": ["1cad4e6"]
+					},
+					"common/globals_appsrv_configuration~cbs": {
+						"commit_ids": ["1cad4e6"]
+					},
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["1cad4e6"]
+					},
+					"1014~cbs": {
+						"commit_ids": ["de3b4e2"]
+					},
+					"1460~cbs": {
+						"commit_ids": ["de3b4e2"]
+					}
+				},
+				"deployed_time": "2018_10_25_10_43_00"
+			}
+		}
+	}, {
+		"_id": "LGSD-6888",
+		"RM_ID": {
+			"RM-98384": {
+				"release_version": "1.1021",
+				"component": {
+					"jobs/asap_upd_cly~cbs": {
+						"commit_ids": ["8f68925"]
+					}
+				},
+				"deployed_time": "2018_07_31_15_34_03"
+			}
+		}
+	}, {
+		"_id": "LGSD-6886",
+		"RM_ID": {
+			"RM-97590": {
+				"release_version": "1.37",
+				"component": {
+					"common/globals_appsrv_configuration~cbs": {
+						"commit_ids": ["b213170"]
+					},
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["b213170"]
+					},
+					"globals_appsrv_gStrings~cbs": {
+						"commit_ids": ["a75f8e2"]
+					}
+				},
+				"deployed_time": "2018_07_12_17_53_45"
+			}
+		}
+	}, {
+		"_id": "LGSD-6862",
+		"RM_ID": {
+			"RM-101909": {
+				"release_version": "1.933",
+				"component": {
+					"1014~cbs": {
+						"commit_ids": ["b428967"]
+					},
+					"690~cbs": {
+						"commit_ids": ["b428967"]
+					}
+				},
+				"deployed_time": "2018_09_30_00_25_03"
+			}
+		}
+	}, {
+		"_id": "LGSD-6861",
+		"RM_ID": {
+			"RM-104950": {
+				"release_version": "1.822",
+				"component": {
+					"502~cbs": {
+						"commit_ids": ["d9346f6"]
+					},
+					"jobs/Mig2DMM/Mig2DMM_POD_POND~cbs": {
+						"commit_ids": ["e965bd8"]
+					},
+					"common/globals_appsrv_plus_tv~cbs": {
+						"commit_ids": ["e965bd8"]
+					},
+					"1401~cbs": {
+						"commit_ids": ["d9346f6"]
+					},
+					"1461~cbs": {
+						"commit_ids": ["d9346f6"]
+					},
+					"1460~cbs": {
+						"commit_ids": ["d9346f6"]
+					},
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["e965bd8"]
+					},
+					"jobs/Mig2DMM/Mig2DMM_Proc~cbs": {
+						"commit_ids": ["e965bd8"]
+					},
+					"jobs/receiveOrdersFromASSURANCEAPP~cbs": {
+						"commit_ids": ["e965bd8"]
+					}
+				},
+				"deployed_time": "2018_08_22_17_27_00"
+			},
+			"RM-99722": {
+				"release_version": "1.988",
+				"component": {
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["ce2dd2e"]
+					},
+					"jobs/Mig2DMM/Mig2DMM_Proc~cbs": {
+						"commit_ids": ["ce2dd2e"]
+					},
+					"jobs/receiveOrdersFromASSURANCEAPP~cbs": {
+						"commit_ids": ["ce2dd2e"]
+					},
+					"jobs/Mig2DMM/Mig2DMM_POD_POND~cbs": {
+						"commit_ids": ["ce2dd2e"]
+					},
+					"common/globals_appsrv_plus_tv~cbs": {
+						"commit_ids": ["ce2dd2e"]
+					},
+					"1401~cbs": {
+						"commit_ids": ["b22497d"]
+					},
+					"globals_appsrv_logistics~cbs": {
+						"commit_ids": ["047590c"]
+					}
+				},
+				"deployed_time": "2018_10_29_05_23_34"
+			}
+		}
+	}, {
+		"_id": "LGSD-6835",
+		"RM_ID": {
+			"RM-97590": {
+				"release_version": "1.37",
+				"component": {
+					"1014~cbs": {
+						"commit_ids": ["2600707"]
+					},
+					"common/globals_appsrv_configuration~cbs": {
+						"commit_ids": ["3f83ee2"]
+					},
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["3f83ee2"]
+					},
+					"1460~cbs": {
+						"commit_ids": ["2600707"]
+					},
+					"1461~cbs": {
+						"commit_ids": ["2600707"]
+					},
+					"1037~cbs": {
+						"commit_ids": ["2600707"]
+					},
+					"globals_appsrv_gStrings~cbs": {
+						"commit_ids": ["3856479"]
+					}
+				},
+				"deployed_time": "2018_07_12_17_53_45"
+			}
+		}
+	}, {
+		"_id": "LGSD-6833",
+		"RM_ID": {
+			"RM-98143": {
+				"release_version": "1.23",
+				"component": {
+					"jobs/Derby@Web/VCSR~cbs": {
+						"commit_ids": ["8b11eda"]
+					}
+				},
+				"deployed_time": "2018_06_07_14_02_06"
+			},
+			"RM-96877": {
+				"release_version": "1.55",
+				"component": {
+					"jobs/Derby@Web/VCSR~cbs": {
+						"commit_ids": ["6767732"]
+					}
+				},
+				"deployed_time": "2018_05_29_14_14_01"
+			}
+		}
+	}, {
+		"_id": "LGSD-6831",
+		"RM_ID": {
+			"RM-99722": {
+				"release_version": "1.988",
+				"component": {
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["ce2dd2e"]
+					},
+					"jobs/Mig2DMM/Mig2DMM_Proc~cbs": {
+						"commit_ids": ["ce2dd2e"]
+					},
+					"jobs/receiveOrdersFromASSURANCEAPP~cbs": {
+						"commit_ids": ["ce2dd2e"]
+					},
+					"jobs/Mig2DMM/Mig2DMM_POD_POND~cbs": {
+						"commit_ids": ["ce2dd2e"]
+					},
+					"common/globals_appsrv_plus_tv~cbs": {
+						"commit_ids": ["ce2dd2e"]
+					},
+					"1401~cbs": {
+						"commit_ids": ["b22497d"]
+					},
+					"globals_appsrv_logistics~cbs": {
+						"commit_ids": ["047590c"]
+					}
+				},
+				"deployed_time": "2018_10_29_05_23_34"
+			}
+		}
+	}, {
+		"_id": "LGSD-6814",
+		"RM_ID": {
+			"RM-95873": {
+				"release_version": "1.83",
+				"component": {
+					"jobs/IdentitficationTrackerforMobileCustomers~sh": {
+						"commit_ids": ["0d080d9"]
+					},
+					"jobs/IdentitficationTrackerforMobileCustomers~sql": {
+						"commit_ids": ["0d080d9"]
+					}
+				},
+				"deployed_time": "2018_05_28_12_43_47"
+			}
+		}
+	}, {
+		"_id": "LGSD-6783",
+		"RM_ID": {
+			"RM-98545": {
+				"release_version": "1.1010",
+				"component": {
+					"common/Derby@Web/globals_web_functions~cbs": {
+						"commit_ids": ["31f0f0f"]
+					},
+					"jobs/Derby@Web/VCSR~cbs": {
+						"commit_ids": ["31f0f0f"]
+					}
+				},
+				"deployed_time": "2018_07_06_04_50_28"
+			}
+		}
+	}, {
+		"_id": "LGSD-6782",
+		"RM_ID": {
+			"RM-97338": {
+				"release_version": "1.48",
+				"component": {
+					"common/Derby@Web/globals_web_functions~cbs": {
+						"commit_ids": ["bb1edec"]
+					},
+					"jobs/Derby@Web/VCSR~cbs": {
+						"commit_ids": ["bb1edec"]
+					}
+				},
+				"deployed_time": "2018_07_06_04_44_37"
+			}
+		}
+	}, {
+		"_id": "LGSD-6781",
+		"RM_ID": {
+			"RM-95833": {
+				"release_version": "1.77",
+				"component": {
+					"jobs/Derby@Web/VCSR_Mobile~cbs": {
+						"commit_ids": ["bd6211d"]
+					},
+					"jobs/Derby@Web/VCSR~cbs": {
+						"commit_ids": ["bd6211d"]
+					}
+				},
+				"deployed_time": "2018_05_15_14_51_20"
+			},
+			"RM-98143": {
+				"release_version": "1.23",
+				"component": {
+					"jobs/Derby@Web/VCSR~cbs": {
+						"commit_ids": ["8b11eda"]
+					}
+				},
+				"deployed_time": "2018_06_07_14_02_06"
+			},
+			"RM-96877": {
+				"release_version": "1.55",
+				"component": {
+					"jobs/Derby@Web/VCSR~cbs": {
+						"commit_ids": ["6767732"]
+					}
+				},
+				"deployed_time": "2018_05_29_14_14_01"
+			}
+		}
+	}, {
+		"_id": "LGSD-6780",
+		"RM_ID": {
+			"RM-95833": {
+				"release_version": "1.77",
+				"component": {
+					"jobs/Derby@Web/VCSR_Mobile~cbs": {
+						"commit_ids": ["bd6211d"]
+					},
+					"jobs/Derby@Web/VCSR~cbs": {
+						"commit_ids": ["bd6211d"]
+					}
+				},
+				"deployed_time": "2018_05_15_14_51_20"
+			},
+			"RM-98143": {
+				"release_version": "1.23",
+				"component": {
+					"jobs/Derby@Web/VCSR~cbs": {
+						"commit_ids": ["8b11eda"]
+					}
+				},
+				"deployed_time": "2018_06_07_14_02_06"
+			},
+			"RM-96877": {
+				"release_version": "1.55",
+				"component": {
+					"jobs/Derby@Web/VCSR~cbs": {
+						"commit_ids": ["6767732"]
+					}
+				},
+				"deployed_time": "2018_05_29_14_14_01"
+			}
+		}
+	}, {
+		"_id": "LGSD-6779",
+		"RM_ID": {
+			"RM-94985": {
+				"release_version": "1.98",
+				"component": {
+					"1473~dat": {
+						"commit_ids": ["545dba4"]
+					}
+				},
+				"deployed_time": "2018_05_09_14_38_36"
+			}
+		}
+	}, {
+		"_id": "LGSD-6773",
+		"RM_ID": {
+			"RM-101042": {
+				"release_version": "1.965",
+				"component": {
+					"jobs/MigrationSingleRoomEOS~sh": {
+						"commit_ids": ["e2f5187"]
+					},
+					"jobs/MigrationSingleRoomEOS~sql": {
+						"commit_ids": ["e2f5187"]
+					}
+				},
+				"deployed_time": "2018_09_13_04_41_58"
+			}
+		}
+	}, {
+		"_id": "LGSD-6772",
+		"RM_ID": {
+			"RM-94697": {
+				"release_version": "1.839",
+				"component": {
+					"1110~cbs": {
+						"commit_ids": ["f4787cc"]
+					}
+				},
+				"deployed_time": "2018_08_20_06_31_35"
+			}
+		}
+	}, {
+		"_id": "LGSD-6766",
+		"RM_ID": {
+			"RM-96150": {
+				"release_version": "1.26",
+				"component": {
+					"jobs/Derby@Web/VCSR_Mobile~cbs": {
+						"commit_ids": ["c118aae"]
+					}
+				},
+				"deployed_time": "2018_06_22_04_11_25"
+			}
+		}
+	}, {
+		"_id": "LGSD-6759",
+		"RM_ID": {
+			"RM-101913": {
+				"release_version": "1.940",
+				"component": {
+					"jobs/CSV_LOAD~ctl": {
+						"commit_ids": ["db7eef3"]
+					},
+					"jobs/VBC_Data_Migration_Script~sh": {
+						"commit_ids": ["db7eef3"]
+					}
+				},
+				"deployed_time": "2018_11_26_11_21_11"
+			}
+		}
+	}, {
+		"_id": "LGSD-6757",
+		"RM_ID": {
+			"RM-98494": {
+				"release_version": "1.1016",
+				"component": {
+					"1062~dat": {
+						"commit_ids": ["491536e"]
+					},
+					"1062~cbs": {
+						"commit_ids": ["491536e"]
+					}
+				},
+				"deployed_time": "2018_11_12_18_29_42"
+			}
+		}
+	}, {
+		"_id": "LGSD-6751",
+		"RM_ID": {
+			"RM-104950": {
+				"release_version": "1.822",
+				"component": {
+					"502~cbs": {
+						"commit_ids": ["d9346f6"]
+					},
+					"jobs/Mig2DMM/Mig2DMM_POD_POND~cbs": {
+						"commit_ids": ["e965bd8"]
+					},
+					"common/globals_appsrv_plus_tv~cbs": {
+						"commit_ids": ["e965bd8"]
+					},
+					"1401~cbs": {
+						"commit_ids": ["d9346f6"]
+					},
+					"1461~cbs": {
+						"commit_ids": ["d9346f6"]
+					},
+					"1460~cbs": {
+						"commit_ids": ["d9346f6"]
+					},
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["e965bd8"]
+					},
+					"jobs/Mig2DMM/Mig2DMM_Proc~cbs": {
+						"commit_ids": ["e965bd8"]
+					},
+					"jobs/receiveOrdersFromASSURANCEAPP~cbs": {
+						"commit_ids": ["e965bd8"]
+					}
+				},
+				"deployed_time": "2018_08_22_17_27_00"
+			},
+			"RM-99722": {
+				"release_version": "1.988",
+				"component": {
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["ce2dd2e"]
+					},
+					"jobs/Mig2DMM/Mig2DMM_Proc~cbs": {
+						"commit_ids": ["ce2dd2e"]
+					},
+					"jobs/receiveOrdersFromASSURANCEAPP~cbs": {
+						"commit_ids": ["ce2dd2e"]
+					},
+					"jobs/Mig2DMM/Mig2DMM_POD_POND~cbs": {
+						"commit_ids": ["ce2dd2e"]
+					},
+					"common/globals_appsrv_plus_tv~cbs": {
+						"commit_ids": ["ce2dd2e"]
+					},
+					"1401~cbs": {
+						"commit_ids": ["b22497d"]
+					},
+					"globals_appsrv_logistics~cbs": {
+						"commit_ids": ["047590c"]
+					}
+				},
+				"deployed_time": "2018_10_29_05_23_34"
+			}
+		}
+	}, {
+		"_id": "LGSD-6750",
+		"RM_ID": {
+			"RM-98636": {
+				"release_version": "1.1006",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["d746a28"]
+					}
+				},
+				"deployed_time": "2018_08_16_03_45_11"
+			}
+		}
+	}, {
+		"_id": "LGSD-6749",
+		"RM_ID": {
+			"RM-99722": {
+				"release_version": "1.988",
+				"component": {
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["ce2dd2e"]
+					},
+					"jobs/Mig2DMM/Mig2DMM_Proc~cbs": {
+						"commit_ids": ["ce2dd2e"]
+					},
+					"jobs/receiveOrdersFromASSURANCEAPP~cbs": {
+						"commit_ids": ["ce2dd2e"]
+					},
+					"jobs/Mig2DMM/Mig2DMM_POD_POND~cbs": {
+						"commit_ids": ["ce2dd2e"]
+					},
+					"common/globals_appsrv_plus_tv~cbs": {
+						"commit_ids": ["ce2dd2e"]
+					},
+					"1401~cbs": {
+						"commit_ids": ["b22497d"]
+					},
+					"globals_appsrv_logistics~cbs": {
+						"commit_ids": ["047590c"]
+					}
+				},
+				"deployed_time": "2018_10_29_05_23_34"
+			}
+		}
+	}, {
+		"_id": "LGSD-6748",
+		"RM_ID": {
+			"RM-103473": {
+				"release_version": "1.893",
+				"component": {
+					"common/globals_appsrv_plus_tv~cbs": {
+						"commit_ids": ["3ff2ff6"]
+					},
+					"2008~cbs": {
+						"commit_ids": ["c33e419"]
+					}
+				},
+				"deployed_time": "2018_09_16_15_02_07"
+			}
+		}
+	}, {
+		"_id": "LGSD-6747",
+		"RM_ID": {
+			"RM-104950": {
+				"release_version": "1.822",
+				"component": {
+					"502~cbs": {
+						"commit_ids": ["d9346f6"]
+					},
+					"jobs/Mig2DMM/Mig2DMM_POD_POND~cbs": {
+						"commit_ids": ["e965bd8"]
+					},
+					"common/globals_appsrv_plus_tv~cbs": {
+						"commit_ids": ["e965bd8"]
+					},
+					"1401~cbs": {
+						"commit_ids": ["d9346f6"]
+					},
+					"1461~cbs": {
+						"commit_ids": ["d9346f6"]
+					},
+					"1460~cbs": {
+						"commit_ids": ["d9346f6"]
+					},
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["e965bd8"]
+					},
+					"jobs/Mig2DMM/Mig2DMM_Proc~cbs": {
+						"commit_ids": ["e965bd8"]
+					},
+					"jobs/receiveOrdersFromASSURANCEAPP~cbs": {
+						"commit_ids": ["e965bd8"]
+					}
+				},
+				"deployed_time": "2018_08_22_17_27_00"
+			},
+			"RM-99722": {
+				"release_version": "1.988",
+				"component": {
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["ce2dd2e"]
+					},
+					"jobs/Mig2DMM/Mig2DMM_Proc~cbs": {
+						"commit_ids": ["ce2dd2e"]
+					},
+					"jobs/receiveOrdersFromASSURANCEAPP~cbs": {
+						"commit_ids": ["ce2dd2e"]
+					},
+					"jobs/Mig2DMM/Mig2DMM_POD_POND~cbs": {
+						"commit_ids": ["ce2dd2e"]
+					},
+					"common/globals_appsrv_plus_tv~cbs": {
+						"commit_ids": ["ce2dd2e"]
+					},
+					"1401~cbs": {
+						"commit_ids": ["b22497d"]
+					},
+					"globals_appsrv_logistics~cbs": {
+						"commit_ids": ["047590c"]
+					}
+				},
+				"deployed_time": "2018_10_29_05_23_34"
+			}
+		}
+	}, {
+		"_id": "LGSD-6746",
+		"RM_ID": {
+			"RM-98564": {
+				"release_version": "1.1009",
+				"component": {
+					"502~cbs": {
+						"commit_ids": ["2e6738e"]
+					},
+					"common/globals_appsrv_configuration~cbs": {
+						"commit_ids": ["c911fd4"]
+					},
+					"9669~cbs": {
+						"commit_ids": ["2e6738e"]
+					},
+					"11400~cbs": {
+						"commit_ids": ["2e6738e"]
+					},
+					"1461~cbs": {
+						"commit_ids": ["2e6738e"]
+					},
+					"1460~cbs": {
+						"commit_ids": ["2e6738e"]
+					},
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["c911fd4"]
+					}
+				},
+				"deployed_time": "2018_08_16_03_31_55"
+			}
+		}
+	}, {
+		"_id": "LGSD-6745",
+		"RM_ID": {
+			"RM-101912": {
+				"release_version": "1.941",
+				"component": {
+					"1084~dat": {
+						"commit_ids": ["10fe62c"]
+					},
+					"1084~cbs": {
+						"commit_ids": ["10fe62c"]
+					}
+				},
+				"deployed_time": "2018_08_16_03_55_01"
+			}
+		}
+	}, {
+		"_id": "LGSD-6687",
+		"RM_ID": {
+			"RM-97590": {
+				"release_version": "1.37",
+				"component": {
+					"1014~cbs": {
+						"commit_ids": ["2600707"]
+					},
+					"common/globals_appsrv_configuration~cbs": {
+						"commit_ids": ["3f83ee2"]
+					},
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["3f83ee2"]
+					},
+					"1460~cbs": {
+						"commit_ids": ["2600707"]
+					},
+					"1461~cbs": {
+						"commit_ids": ["2600707"]
+					},
+					"1037~cbs": {
+						"commit_ids": ["2600707"]
+					},
+					"globals_appsrv_gStrings~cbs": {
+						"commit_ids": ["3856479"]
+					}
+				},
+				"deployed_time": "2018_07_12_17_53_45"
+			}
+		}
+	}, {
+		"_id": "LGSD-6679",
+		"RM_ID": {
+			"RM-93034": {
+				"release_version": "1.131",
+				"component": {
+					"jobs/Derby@Web/VCSR~cbs": {
+						"commit_ids": ["44fcbbe"]
+					}
+				},
+				"deployed_time": "2018_05_25_11_21_54"
+			}
+		}
+	}, {
+		"_id": "LGSD-6675",
+		"RM_ID": {
+			"RM-100243": {
+				"release_version": "1.977",
+				"component": {
+					"1220~dat": {
+						"commit_ids": ["e9b9d4f"]
+					}
+				},
+				"deployed_time": "2018_06_29_12_31_14"
+			}
+		}
+	}, {
+		"_id": "LGSD-6666",
+		"RM_ID": {
+			"RM-92300": {
+				"release_version": "1.137",
+				"component": {
+					"jobs/Derby@Web/VCSR_Mobile~cbs": {
+						"commit_ids": ["10663d0"]
+					}
+				},
+				"deployed_time": "2018_04_24_15_20_49"
+			}
+		}
+	}, {
+		"_id": "LGSD-6665",
+		"RM_ID": {
+			"RM-107227": {
+				"release_version": "1.706",
+				"component": {
+					"globals_functions~cbs": {
+						"commit_ids": ["3e51c8a"]
+					}
+				},
+				"deployed_time": "2018_09_18_18_38_08"
+			}
+		}
+	}, {
+		"_id": "LGSD-6664",
+		"RM_ID": {
+			"RM-93286": {
+				"release_version": "1.123",
+				"component": {
+					"1024~dat": {
+						"commit_ids": ["22af24e"]
+					},
+					"1460~cbs": {
+						"commit_ids": ["22af24e"]
+					},
+					"2002~dat": {
+						"commit_ids": ["22af24e"]
+					},
+					"2006~dat": {
+						"commit_ids": ["22af24e"]
+					},
+					"jobs/Derby@Web/VCSR_Mobile~cbs": {
+						"commit_ids": ["8a0cbdd"]
+					},
+					"712~dat": {
+						"commit_ids": ["22af24e"]
+					},
+					"712~cbs": {
+						"commit_ids": ["22af24e"]
+					},
+					"768~dat": {
+						"commit_ids": ["22af24e"]
+					},
+					"1024~cbs": {
+						"commit_ids": ["22af24e"]
+					},
+					"jobs/Derby@Web/VCSR~cbs": {
+						"commit_ids": ["8a0cbdd"]
+					}
+				},
+				"deployed_time": "2018_05_15_14_30_56"
+			}
+		}
+	}, {
+		"_id": "LGSD-6663",
+		"RM_ID": {
+			"RM-93286": {
+				"release_version": "1.123",
+				"component": {
+					"1024~dat": {
+						"commit_ids": ["22af24e"]
+					},
+					"1460~cbs": {
+						"commit_ids": ["22af24e"]
+					},
+					"2002~dat": {
+						"commit_ids": ["22af24e"]
+					},
+					"2006~dat": {
+						"commit_ids": ["22af24e"]
+					},
+					"jobs/Derby@Web/VCSR_Mobile~cbs": {
+						"commit_ids": ["8a0cbdd"]
+					},
+					"712~dat": {
+						"commit_ids": ["22af24e"]
+					},
+					"712~cbs": {
+						"commit_ids": ["22af24e"]
+					},
+					"768~dat": {
+						"commit_ids": ["22af24e"]
+					},
+					"1024~cbs": {
+						"commit_ids": ["22af24e"]
+					},
+					"jobs/Derby@Web/VCSR~cbs": {
+						"commit_ids": ["8a0cbdd"]
+					}
+				},
+				"deployed_time": "2018_05_15_14_30_56"
+			}
+		}
+	}, {
+		"_id": "LGSD-6659",
+		"RM_ID": {
+			"RM-97590": {
+				"release_version": "1.37",
+				"component": {
+					"1014~cbs": {
+						"commit_ids": ["2600707"]
+					},
+					"common/globals_appsrv_configuration~cbs": {
+						"commit_ids": ["3f83ee2"]
+					},
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["3f83ee2"]
+					},
+					"1460~cbs": {
+						"commit_ids": ["2600707"]
+					},
+					"1461~cbs": {
+						"commit_ids": ["2600707"]
+					},
+					"1037~cbs": {
+						"commit_ids": ["2600707"]
+					},
+					"globals_appsrv_gStrings~cbs": {
+						"commit_ids": ["3856479"]
+					}
+				},
+				"deployed_time": "2018_07_12_17_53_45"
+			}
+		}
+	}, {
+		"_id": "LGSD-6656",
+		"RM_ID": {
+			"RM-104605": {
+				"release_version": "1.841",
+				"component": {
+					"globals_menus~cbs": {
+						"commit_ids": ["e9431e0"]
+					},
+					"1171~cbs": {
+						"commit_ids": ["a774436"]
+					},
+					"1171~dat": {
+						"commit_ids": ["a774436"]
+					},
+					"1163~cbs": {
+						"commit_ids": ["a774436"]
+					},
+					"1163~dat": {
+						"commit_ids": ["a774436"]
+					}
+				},
+				"deployed_time": "2018_09_12_11_52_26"
+			}
+		}
+	}, {
+		"_id": "LGSD-6655",
+		"RM_ID": {
+			"RM-104605": {
+				"release_version": "1.841",
+				"component": {
+					"globals_menus~cbs": {
+						"commit_ids": ["e9431e0"]
+					},
+					"1171~cbs": {
+						"commit_ids": ["a774436"]
+					},
+					"1171~dat": {
+						"commit_ids": ["a774436"]
+					},
+					"1163~cbs": {
+						"commit_ids": ["a774436"]
+					},
+					"1163~dat": {
+						"commit_ids": ["a774436"]
+					}
+				},
+				"deployed_time": "2018_09_12_11_52_26"
+			}
+		}
+	}, {
+		"_id": "LGSD-6654",
+		"RM_ID": {
+			"RM-103576": {
+				"release_version": "1.885",
+				"component": {
+					"1202~dat": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1202~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1210~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1204~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1206~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"11400~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1163~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"11500~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1163~dat": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1210~dat": {
+						"commit_ids": ["8bc9158"]
+					}
+				},
+				"deployed_time": "2018_11_27_13_48_08"
+			}
+		}
+	}, {
+		"_id": "LGSD-6653",
+		"RM_ID": {
+			"RM-103576": {
+				"release_version": "1.885",
+				"component": {
+					"1202~dat": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1202~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1210~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1204~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1206~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"11400~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1163~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"11500~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1163~dat": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1210~dat": {
+						"commit_ids": ["8bc9158"]
+					}
+				},
+				"deployed_time": "2018_11_27_13_48_08"
+			}
+		}
+	}, {
+		"_id": "LGSD-6649",
+		"RM_ID": {
+			"RM-117493": {
+				"release_version": "1.321",
+				"component": {
+					"712~dat": {
+						"commit_ids": ["02716b8"]
+					},
+					"712~cbs": {
+						"commit_ids": ["02716b8"]
+					},
+					"jobs/Derby@Web/VCSR~cbs": {
+						"commit_ids": ["7d9e81b"]
+					},
+					"1024~cbs": {
+						"commit_ids": ["02716b8"]
+					},
+					"1024~dat": {
+						"commit_ids": ["02716b8"]
+					},
+					"globals_functions~cbs": {
+						"commit_ids": ["9a9f296"]
+					}
+				},
+				"deployed_time": "2019_02_06_13_18_04"
+			}
+		}
+	}, {
+		"_id": "LGSD-6629",
+		"RM_ID": {
+			"RM-105307": {
+				"release_version": "1.801",
+				"component": {
+					"1165~dat": {
+						"commit_ids": ["ad2dd01"]
+					},
+					"1163~dat": {
+						"commit_ids": ["ad2dd01"]
+					},
+					"1163~cbs": {
+						"commit_ids": ["ad2dd01"]
+					},
+					"1165~cbs": {
+						"commit_ids": ["ad2dd01"]
+					}
+				},
+				"deployed_time": "2018_09_21_09_29_15"
+			}
+		}
+	}, {
+		"_id": "LGSD-6628",
+		"RM_ID": {
+			"RM-103576": {
+				"release_version": "1.885",
+				"component": {
+					"1202~dat": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1202~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1210~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1204~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1206~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"11400~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1163~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"11500~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1163~dat": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1210~dat": {
+						"commit_ids": ["8bc9158"]
+					}
+				},
+				"deployed_time": "2018_11_27_13_48_08"
+			}
+		}
+	}, {
+		"_id": "LGSD-6618",
+		"RM_ID": {
+			"RM-97590": {
+				"release_version": "1.37",
+				"component": {
+					"1014~cbs": {
+						"commit_ids": ["e8f22b3"]
+					},
+					"common/globals_appsrv_configuration~cbs": {
+						"commit_ids": ["b213170"]
+					},
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["b213170"]
+					},
+					"1460~cbs": {
+						"commit_ids": ["e8f22b3"]
+					},
+					"1461~cbs": {
+						"commit_ids": ["e8f22b3"]
+					},
+					"1037~cbs": {
+						"commit_ids": ["e8f22b3"]
+					},
+					"globals_appsrv_gStrings~cbs": {
+						"commit_ids": ["a75f8e2"]
+					}
+				},
+				"deployed_time": "2018_07_12_17_53_45"
+			}
+		}
+	}, {
+		"_id": "LGSD-6615",
+		"RM_ID": {
+			"RM-113719": {
+				"release_version": "1.434",
+				"component": {
+					"jobs/receiveOrdersFromASSURANCEAPP~cbs": {
+						"commit_ids": ["9142ab4"]
+					}
+				},
+				"deployed_time": "2019_01_11_10_42_09"
+			}
+		}
+	}, {
+		"_id": "LGSD-6591",
+		"RM_ID": {
+			"RM-105061": {
+				"release_version": "1.813",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["a35a693"]
+					},
+					"1166~cbs": {
+						"commit_ids": ["a35a693"]
+					},
+					"1166~dat": {
+						"commit_ids": ["a35a693"]
+					}
+				},
+				"deployed_time": "2018_09_12_12_21_27"
+			}
+		}
+	}, {
+		"_id": "LGSD-6585",
+		"RM_ID": {
+			"RM-86703": {
+				"release_version": "1.225",
+				"component": {
+					"1137~cbs": {
+						"commit_ids": ["7ab6e65"]
+					},
+					"2008~cbs": {
+						"commit_ids": ["7ab6e65"]
+					}
+				},
+				"deployed_time": "2018_05_15_14_59_18"
+			}
+		}
+	}, {
+		"_id": "LGSD-6576",
+		"RM_ID": {
+			"RM-86747": {
+				"release_version": "1.221",
+				"component": {
+					"1204~dat": {
+						"commit_ids": ["bae98c0"]
+					},
+					"1206~dat": {
+						"commit_ids": ["bae98c0"]
+					}
+				},
+				"deployed_time": "2018_03_15_12_22_42"
+			}
+		}
+	}, {
+		"_id": "LGSD-6560",
+		"RM_ID": {
+			"RM-98217": {
+				"release_version": "1.818",
+				"component": {
+					"common/Derby@Web/globals_web_logistics~cbs": {
+						"commit_ids": ["da851f4"]
+					},
+					"jobs/fin2crm_credit_check~sh": {
+						"commit_ids": ["da851f4"]
+					}
+				},
+				"deployed_time": "2018_11_29_15_15_11"
+			},
+			"RM-84219": {
+				"release_version": "1.273",
+				"component": {
+					"jobs/fin2crm_credit_check~cbs": {
+						"commit_ids": ["48d2f4c"]
+					},
+					"504~cbs": {
+						"commit_ids": ["3929184"]
+					}
+				},
+				"deployed_time": "2018_03_28_15_31_14"
+			}
+		}
+	}, {
+		"_id": "LGSD-6519",
+		"RM_ID": {
+			"RM-101909": {
+				"release_version": "1.933",
+				"component": {
+					"1014~cbs": {
+						"commit_ids": ["b428967"]
+					},
+					"690~cbs": {
+						"commit_ids": ["b428967"]
+					}
+				},
+				"deployed_time": "2018_09_30_00_25_03"
+			}
+		}
+	}, {
+		"_id": "LGSD-6506",
+		"RM_ID": {
+			"RM-104950": {
+				"release_version": "1.822",
+				"component": {
+					"502~cbs": {
+						"commit_ids": ["d9346f6"]
+					},
+					"jobs/Mig2DMM/Mig2DMM_POD_POND~cbs": {
+						"commit_ids": ["e965bd8"]
+					},
+					"common/globals_appsrv_plus_tv~cbs": {
+						"commit_ids": ["e965bd8"]
+					},
+					"1401~cbs": {
+						"commit_ids": ["d9346f6"]
+					},
+					"1461~cbs": {
+						"commit_ids": ["d9346f6"]
+					},
+					"1460~cbs": {
+						"commit_ids": ["d9346f6"]
+					},
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["e965bd8"]
+					},
+					"jobs/Mig2DMM/Mig2DMM_Proc~cbs": {
+						"commit_ids": ["e965bd8"]
+					},
+					"jobs/receiveOrdersFromASSURANCEAPP~cbs": {
+						"commit_ids": ["e965bd8"]
+					}
+				},
+				"deployed_time": "2018_08_22_17_27_00"
+			},
+			"RM-99722": {
+				"release_version": "1.988",
+				"component": {
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["ce2dd2e"]
+					},
+					"jobs/Mig2DMM/Mig2DMM_Proc~cbs": {
+						"commit_ids": ["ce2dd2e"]
+					},
+					"jobs/receiveOrdersFromASSURANCEAPP~cbs": {
+						"commit_ids": ["ce2dd2e"]
+					},
+					"jobs/Mig2DMM/Mig2DMM_POD_POND~cbs": {
+						"commit_ids": ["ce2dd2e"]
+					},
+					"common/globals_appsrv_plus_tv~cbs": {
+						"commit_ids": ["ce2dd2e"]
+					},
+					"1401~cbs": {
+						"commit_ids": ["b22497d"]
+					},
+					"globals_appsrv_logistics~cbs": {
+						"commit_ids": ["047590c"]
+					}
+				},
+				"deployed_time": "2018_10_29_05_23_34"
+			}
+		}
+	}, {
+		"_id": "LGSD-6497",
+		"RM_ID": {
+			"RM-107066": {
+				"release_version": "1.717",
+				"component": {
+					"jobs/ChewCreateCase~cbs": {
+						"commit_ids": ["bd3fef0"]
+					}
+				},
+				"deployed_time": "2018_10_29_10_46_23"
+			}
+		}
+	}, {
+		"_id": "LGSD-6444",
+		"RM_ID": {
+			"RM-103473": {
+				"release_version": "1.893",
+				"component": {
+					"common/globals_appsrv_plus_tv~cbs": {
+						"commit_ids": ["3ff2ff6"]
+					},
+					"2008~cbs": {
+						"commit_ids": ["c33e419"]
+					}
+				},
+				"deployed_time": "2018_09_16_15_02_07"
+			}
+		}
+	}, {
+		"_id": "LGSD-6386",
+		"RM_ID": {
+			"RM-117649": {
+				"release_version": "1.317",
+				"component": {
+					"jobs/sendOrders2ASSURANCEAPP~cbs": {
+						"commit_ids": ["e5ae507"]
+					}
+				},
+				"deployed_time": "2019_02_15_06_02_12"
+			}
+		}
+	}, {
+		"_id": "LGSD-6360",
+		"RM_ID": {
+			"RM-117649": {
+				"release_version": "1.317",
+				"component": {
+					"jobs/sendOrders2ASSURANCEAPP~cbs": {
+						"commit_ids": ["e5ae507"]
+					}
+				},
+				"deployed_time": "2019_02_15_06_02_12"
+			}
+		}
+	}, {
+		"_id": "LGSD-6264",
+		"RM_ID": {
+			"RM-85119": {
+				"release_version": "1.261",
+				"component": {
+					"1126~cbs": {
+						"commit_ids": ["a738319"]
+					},
+					"14000~cbs": {
+						"commit_ids": ["a738319"]
+					},
+					"11404~dat": {
+						"commit_ids": ["a738319"]
+					},
+					"2008~cbs": {
+						"commit_ids": ["a738319"]
+					},
+					"11404~cbs": {
+						"commit_ids": ["a738319"]
+					}
+				},
+				"deployed_time": "2018_04_26_12_24_58"
+			}
+		}
+	}, {
+		"_id": "LGSD-6261",
+		"RM_ID": {
+			"RM-68801": {
+				"release_version": "1.130",
+				"component": {
+					"1126~dat": {
+						"commit_ids": ["71d6697"]
+					},
+					"1126~cbs": {
+						"commit_ids": ["71d6697"]
+					},
+					"11400~cbs": {
+						"commit_ids": ["71d6697"]
+					},
+					"14000~cbs": {
+						"commit_ids": ["71d6697"]
+					},
+					"11404~dat": {
+						"commit_ids": ["71d6697"]
+					}
+				},
+				"deployed_time": "2018_04_26_12_58_47"
+			}
+		}
+	}, {
+		"_id": "LGSD-6260",
+		"RM_ID": {
+			"RM-68801": {
+				"release_version": "1.130",
+				"component": {
+					"1126~dat": {
+						"commit_ids": ["71d6697"]
+					},
+					"1126~cbs": {
+						"commit_ids": ["71d6697"]
+					},
+					"11400~cbs": {
+						"commit_ids": ["71d6697"]
+					},
+					"14000~cbs": {
+						"commit_ids": ["71d6697"]
+					},
+					"11404~dat": {
+						"commit_ids": ["71d6697"]
+					}
+				},
+				"deployed_time": "2018_04_26_12_58_47"
+			}
+		}
+	}, {
+		"_id": "LGSD-6096",
+		"RM_ID": {
+			"RM-99722": {
+				"release_version": "1.988",
+				"component": {
+					"1461~cbs": {
+						"commit_ids": ["5be059e"]
+					}
+				},
+				"deployed_time": "2018_10_29_05_23_34"
+			},
+			"RM-100795": {
+				"release_version": "1.971",
+				"component": {
+					"1461~cbs": {
+						"commit_ids": ["7e79b2e"]
+					}
+				},
+				"deployed_time": "2018_10_25_10_43_00"
+			}
+		}
+	}, {
+		"_id": "LGSD-6095",
+		"RM_ID": {
+			"RM-99722": {
+				"release_version": "1.988",
+				"component": {
+					"1461~cbs": {
+						"commit_ids": ["5be059e"]
+					}
+				},
+				"deployed_time": "2018_10_29_05_23_34"
+			},
+			"RM-100795": {
+				"release_version": "1.971",
+				"component": {
+					"1461~cbs": {
+						"commit_ids": ["7e79b2e"]
+					}
+				},
+				"deployed_time": "2018_10_25_10_43_00"
+			}
+		}
+	}, {
+		"_id": "LGSD-6052",
+		"RM_ID": {
+			"RM-68801": {
+				"release_version": "1.130",
+				"component": {
+					"1126~dat": {
+						"commit_ids": ["71d6697"]
+					},
+					"1126~cbs": {
+						"commit_ids": ["71d6697"]
+					},
+					"11400~cbs": {
+						"commit_ids": ["71d6697"]
+					},
+					"14000~cbs": {
+						"commit_ids": ["71d6697"]
+					},
+					"11404~dat": {
+						"commit_ids": ["71d6697"]
+					}
+				},
+				"deployed_time": "2018_04_26_12_58_47"
+			}
+		}
+	}, {
+		"_id": "LGSD-5769",
+		"RM_ID": {
+			"RM-85119": {
+				"release_version": "1.261",
+				"component": {
+					"1126~cbs": {
+						"commit_ids": ["a738319"]
+					},
+					"14000~cbs": {
+						"commit_ids": ["a738319"]
+					},
+					"11404~dat": {
+						"commit_ids": ["a738319"]
+					},
+					"2008~cbs": {
+						"commit_ids": ["a738319"]
+					},
+					"11404~cbs": {
+						"commit_ids": ["a738319"]
+					}
+				},
+				"deployed_time": "2018_04_26_12_24_58"
+			}
+		}
+	}, {
+		"_id": "LGSD-5768",
+		"RM_ID": {
+			"RM-85119": {
+				"release_version": "1.261",
+				"component": {
+					"1126~cbs": {
+						"commit_ids": ["a738319"]
+					},
+					"14000~cbs": {
+						"commit_ids": ["a738319"]
+					},
+					"11404~dat": {
+						"commit_ids": ["a738319"]
+					},
+					"2008~cbs": {
+						"commit_ids": ["a738319"]
+					},
+					"11404~cbs": {
+						"commit_ids": ["a738319"]
+					}
+				},
+				"deployed_time": "2018_04_26_12_24_58"
+			}
+		}
+	}, {
+		"_id": "LGSD-5767",
+		"RM_ID": {
+			"RM-68801": {
+				"release_version": "1.130",
+				"component": {
+					"1126~dat": {
+						"commit_ids": ["71d6697"]
+					},
+					"1126~cbs": {
+						"commit_ids": ["71d6697"]
+					},
+					"11400~cbs": {
+						"commit_ids": ["71d6697"]
+					},
+					"14000~cbs": {
+						"commit_ids": ["71d6697"]
+					},
+					"11404~dat": {
+						"commit_ids": ["71d6697"]
+					}
+				},
+				"deployed_time": "2018_04_26_12_58_47"
+			}
+		}
+	}, {
+		"_id": "LGSD-5766",
+		"RM_ID": {
+			"RM-84222": {
+				"release_version": "1.267",
+				"component": {
+					"1216~cbs": {
+						"commit_ids": ["50505bb"]
+					},
+					"1126~cbs": {
+						"commit_ids": ["50505bb"]
+					},
+					"1210~cbs": {
+						"commit_ids": ["50505bb"]
+					},
+					"1210~dat": {
+						"commit_ids": ["50505bb"]
+					}
+				},
+				"deployed_time": "2018_04_26_12_30_15"
+			}
+		}
+	}, {
+		"_id": "LGSD-",
+		"RM_ID": {
+			"RM-68801": {
+				"release_version": "1.130",
+				"component": {
+					"1126~dat": {
+						"commit_ids": ["71d6697"]
+					},
+					"1126~cbs": {
+						"commit_ids": ["71d6697"]
+					},
+					"11400~cbs": {
+						"commit_ids": ["71d6697"]
+					},
+					"14000~cbs": {
+						"commit_ids": ["71d6697"]
+					},
+					"11404~dat": {
+						"commit_ids": ["71d6697"]
+					}
+				},
+				"deployed_time": "2018_04_26_12_58_47"
+			},
+			"RM-85119": {
+				"release_version": "1.261",
+				"component": {
+					"1126~cbs": {
+						"commit_ids": ["a738319"]
+					},
+					"14000~cbs": {
+						"commit_ids": ["a738319"]
+					},
+					"11404~dat": {
+						"commit_ids": ["a738319"]
+					},
+					"2008~cbs": {
+						"commit_ids": ["a738319"]
+					},
+					"11404~cbs": {
+						"commit_ids": ["a738319"]
+					}
+				},
+				"deployed_time": "2018_04_26_12_24_58"
+			}
+		}
+	}, {
+		"_id": "LGSD -6514",
+		"RM_ID": {
+			"RM-84118": {
+				"release_version": "1.258",
+				"component": {
+					"globals_appsrv_configuration~cbs": {
+						"commit_ids": ["6d374f4"]
+					},
+					"common/globals_appsrv_configuration~cbs": {
+						"commit_ids": ["6ac36c4"]
+					},
+					"690~cbs": {
+						"commit_ids": ["d809691"]
+					},
+					"globals_appsrv_logistics~cbs": {
+						"commit_ids": ["6d374f4"]
+					},
+					"jobs/DMM_vitria_return~cbs": {
+						"commit_ids": ["6ac36c4"]
+					},
+					"1014~cbs": {
+						"commit_ids": ["d809691"]
+					},
+					"globals_functions~cbs": {
+						"commit_ids": ["6d374f4"]
+					},
+					"common/globals_appsrv_inventory~cbs": {
+						"commit_ids": ["6ac36c4"]
+					},
+					"globals_appsrv_inventory~cbs": {
+						"commit_ids": ["6d374f4"]
+					},
+					"jobs/Mig2DMM/Mig2DMM_Proc~cbs": {
+						"commit_ids": ["6ac36c4"]
+					},
+					"common/globals_appsrv_dtv_internet~cbs": {
+						"commit_ids": ["6ac36c4"]
+					},
+					"1460~cbs": {
+						"commit_ids": ["d809691"]
+					},
+					"1461~cbs": {
+						"commit_ids": ["d809691"]
+					},
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["6ac36c4"]
+					}
+				},
+				"deployed_time": "2018_04_25_13_45_00"
+			}
+		}
+	}, {
+		"_id": "LGSD -6513",
+		"RM_ID": {
+			"RM-84118": {
+				"release_version": "1.258",
+				"component": {
+					"globals_appsrv_configuration~cbs": {
+						"commit_ids": ["6d374f4"]
+					},
+					"common/globals_appsrv_configuration~cbs": {
+						"commit_ids": ["6ac36c4"]
+					},
+					"690~cbs": {
+						"commit_ids": ["d809691"]
+					},
+					"globals_appsrv_logistics~cbs": {
+						"commit_ids": ["6d374f4"]
+					},
+					"jobs/DMM_vitria_return~cbs": {
+						"commit_ids": ["6ac36c4"]
+					},
+					"1014~cbs": {
+						"commit_ids": ["d809691"]
+					},
+					"globals_functions~cbs": {
+						"commit_ids": ["6d374f4"]
+					},
+					"common/globals_appsrv_inventory~cbs": {
+						"commit_ids": ["6ac36c4"]
+					},
+					"globals_appsrv_inventory~cbs": {
+						"commit_ids": ["6d374f4"]
+					},
+					"jobs/Mig2DMM/Mig2DMM_Proc~cbs": {
+						"commit_ids": ["6ac36c4"]
+					},
+					"common/globals_appsrv_dtv_internet~cbs": {
+						"commit_ids": ["6ac36c4"]
+					},
+					"1460~cbs": {
+						"commit_ids": ["d809691"]
+					},
+					"1461~cbs": {
+						"commit_ids": ["d809691"]
+					},
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["6ac36c4"]
+					}
+				},
+				"deployed_time": "2018_04_25_13_45_00"
+			}
+		}
+	}, {
+		"_id": "LGSD -6512",
+		"RM_ID": {
+			"RM-84118": {
+				"release_version": "1.258",
+				"component": {
+					"globals_appsrv_configuration~cbs": {
+						"commit_ids": ["6d374f4"]
+					},
+					"common/globals_appsrv_configuration~cbs": {
+						"commit_ids": ["6ac36c4"]
+					},
+					"690~cbs": {
+						"commit_ids": ["d809691"]
+					},
+					"globals_appsrv_logistics~cbs": {
+						"commit_ids": ["6d374f4"]
+					},
+					"jobs/DMM_vitria_return~cbs": {
+						"commit_ids": ["6ac36c4"]
+					},
+					"1014~cbs": {
+						"commit_ids": ["d809691"]
+					},
+					"globals_functions~cbs": {
+						"commit_ids": ["6d374f4"]
+					},
+					"common/globals_appsrv_inventory~cbs": {
+						"commit_ids": ["6ac36c4"]
+					},
+					"globals_appsrv_inventory~cbs": {
+						"commit_ids": ["6d374f4"]
+					},
+					"jobs/Mig2DMM/Mig2DMM_Proc~cbs": {
+						"commit_ids": ["6ac36c4"]
+					},
+					"common/globals_appsrv_dtv_internet~cbs": {
+						"commit_ids": ["6ac36c4"]
+					},
+					"1460~cbs": {
+						"commit_ids": ["d809691"]
+					},
+					"1461~cbs": {
+						"commit_ids": ["d809691"]
+					},
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["6ac36c4"]
+					}
+				},
+				"deployed_time": "2018_04_25_13_45_00"
+			}
+		}
+	}, {
+		"_id": "LGSD - 6670",
+		"RM_ID": {
+			"RM-94673": {
+				"release_version": "1.101",
+				"component": {
+					"jobs/DMM_vitria_return~cbs": {
+						"commit_ids": ["d0c7f48"]
+					},
+					"jobs/asap_upd_cly~cbs": {
+						"commit_ids": ["d0c7f48"]
+					}
+				},
+				"deployed_time": "2018_05_09_13_22_50"
+			}
+		}
+	}, {
+		"_id": "LGSD - 6516",
+		"RM_ID": {
+			"RM-86703": {
+				"release_version": "1.225",
+				"component": {
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["6abc48a"]
+					},
+					"common/globals_appsrv_plus_tv~cbs": {
+						"commit_ids": ["6abc48a"]
+					},
+					"jobs/receiveOrdersFromASSURANCEAPP~cbs": {
+						"commit_ids": ["6abc48a"]
+					}
+				},
+				"deployed_time": "2018_05_15_14_59_18"
+			}
+		}
+	}, {
+		"_id": "LGSD - 6511",
+		"RM_ID": {
+			"RM-84118": {
+				"release_version": "1.258",
+				"component": {
+					"globals_appsrv_configuration~cbs": {
+						"commit_ids": ["6d374f4"]
+					},
+					"common/globals_appsrv_configuration~cbs": {
+						"commit_ids": ["6ac36c4"]
+					},
+					"690~cbs": {
+						"commit_ids": ["d809691"]
+					},
+					"globals_appsrv_logistics~cbs": {
+						"commit_ids": ["6d374f4"]
+					},
+					"jobs/DMM_vitria_return~cbs": {
+						"commit_ids": ["6ac36c4"]
+					},
+					"1014~cbs": {
+						"commit_ids": ["d809691"]
+					},
+					"globals_functions~cbs": {
+						"commit_ids": ["6d374f4"]
+					},
+					"common/globals_appsrv_inventory~cbs": {
+						"commit_ids": ["6ac36c4"]
+					},
+					"globals_appsrv_inventory~cbs": {
+						"commit_ids": ["6d374f4"]
+					},
+					"jobs/Mig2DMM/Mig2DMM_Proc~cbs": {
+						"commit_ids": ["6ac36c4"]
+					},
+					"common/globals_appsrv_dtv_internet~cbs": {
+						"commit_ids": ["6ac36c4"]
+					},
+					"1460~cbs": {
+						"commit_ids": ["d809691"]
+					},
+					"1461~cbs": {
+						"commit_ids": ["d809691"]
+					},
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["6ac36c4"]
+					}
+				},
+				"deployed_time": "2018_04_25_13_45_00"
+			}
+		}
+	}, {
+		"_id": "INC000002489553",
+		"RM_ID": {
+			"RM-121343": {
+				"release_version": "1.158",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["05b6376"]
+					}
+				},
+				"deployed_time": "2019_03_01_09_21_11"
+			}
+		}
+	}, {
+		"_id": "INC000002483250",
+		"RM_ID": {
+			"RM-122537": {
+				"release_version": "1.93",
+				"component": {
+					"jobs/t2c_port_out~cbs": {
+						"commit_ids": ["7d65db6"]
+					}
+				},
+				"deployed_time": "2019_03_15_10_17_15"
+			}
+		}
+	}, {
+		"_id": "INC000002472801",
+		"RM_ID": {
+			"RM-123181": {
+				"release_version": "1.28",
+				"component": {
+					"1159~cbs": {
+						"commit_ids": ["bdd5edc"]
+					}
+				},
+				"deployed_time": "2019_04_02_14_13_24"
+			}
+		}
+	}, {
+		"_id": "INC000002469836",
+		"RM_ID": {
+			"RM-117412": {
+				"release_version": "1.325",
+				"component": {
+					"1202~cbs": {
+						"commit_ids": ["666fea5"]
+					},
+					"1210~cbs": {
+						"commit_ids": ["666fea5"]
+					}
+				},
+				"deployed_time": "2019_02_11_13_10_02"
+			}
+		}
+	}, {
+		"_id": "INC000002466729",
+		"RM_ID": {
+			"RM-120211": {
+				"release_version": "1.217",
+				"component": {
+					"globals_functions~cbs": {
+						"commit_ids": ["08ee3c2"]
+					}
+				},
+				"deployed_time": "2019_02_15_10_58_58"
+			}
+		}
+	}, {
+		"_id": "INC000002436880",
+		"RM_ID": {
+			"RM-119058": {
+				"release_version": "1.256",
+				"component": {
+					"502~cbs": {
+						"commit_ids": ["0bcc49c"]
+					}
+				},
+				"deployed_time": "2019_03_21_14_40_25"
+			}
+		}
+	}, {
+		"_id": "INC000002422897",
+		"RM_ID": {
+			"RM-118868": {
+				"release_version": "1.272",
+				"component": {
+					"common/globals_appsrv_plus_tv~cbs": {
+						"commit_ids": ["d768048"]
+					}
+				},
+				"deployed_time": "2019_02_21_09_26_49"
+			}
+		}
+	}, {
+		"_id": "INC000002422228",
+		"RM_ID": {
+			"RM-118710": {
+				"release_version": "1.273",
+				"component": {
+					"1210~cbs": {
+						"commit_ids": ["e46fcab"]
+					}
+				},
+				"deployed_time": "2019_03_21_14_37_36"
+			}
+		}
+	}, {
+		"_id": "INC000002396239",
+		"RM_ID": {
+			"RM-116584": {
+				"release_version": "1.346",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["0e51edb"]
+					}
+				},
+				"deployed_time": "2019_01_14_09_08_30"
+			}
+		}
+	}, {
+		"_id": "INC000002384758",
+		"RM_ID": {
+			"RM-116152": {
+				"release_version": "1.355",
+				"component": {
+					"1126~cbs": {
+						"commit_ids": ["07779fd"]
+					}
+				},
+				"deployed_time": "2018_12_24_12_12_27"
+			}
+		}
+	}, {
+		"_id": "INC000002378136",
+		"RM_ID": {
+			"RM-116134": {
+				"release_version": "1.354",
+				"component": {
+					"1014~cbs": {
+						"commit_ids": ["93030b1"]
+					}
+				},
+				"deployed_time": "2019_01_30_17_16_05"
+			}
+		}
+	}, {
+		"_id": "INC000002358765",
+		"RM_ID": {
+			"RM-98217": {
+				"release_version": "1.818",
+				"component": {
+					"504~cbs": {
+						"commit_ids": ["80e8400"]
+					}
+				},
+				"deployed_time": "2018_11_29_15_15_11"
+			}
+		}
+	}, {
+		"_id": "INC000002316246",
+		"RM_ID": {
+			"RM-114591": {
+				"release_version": "1.399",
+				"component": {
+					"1461~cbs": {
+						"commit_ids": ["77fb489"]
+					}
+				},
+				"deployed_time": "2018_12_10_17_25_19"
+			}
+		}
+	}, {
+		"_id": "INC000002310051",
+		"RM_ID": {
+			"RM-111774": {
+				"release_version": "1.503",
+				"component": {
+					"9669~cbs": {
+						"commit_ids": ["30be046"]
+					}
+				},
+				"deployed_time": "2018_10_29_10_57_08"
+			}
+		}
+	}, {
+		"_id": "INC000002306028",
+		"RM_ID": {
+			"RM-122870": {
+				"release_version": "1.76",
+				"component": {
+					"11500~cbs": {
+						"commit_ids": ["78eb2f3"]
+					}
+				},
+				"deployed_time": "2019_03_21_09_53_01"
+			}
+		}
+	}, {
+		"_id": "INC000002287459",
+		"RM_ID": {
+			"RM-107866": {
+				"release_version": "1.662",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["fe7e751"]
+					},
+					"rulemanager/c2asap/MVNO~cbs": {
+						"commit_ids": ["74aad9f"]
+					}
+				},
+				"deployed_time": "2018_10_31_09_37_24"
+			}
+		}
+	}, {
+		"_id": "INC000002285698",
+		"RM_ID": {
+			"RM-109965": {
+				"release_version": "1.584",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["658d189"]
+					}
+				},
+				"deployed_time": "2018_10_11_23_42_14"
+			}
+		}
+	}, {
+		"_id": "INC000002285596",
+		"RM_ID": {
+			"RM-111656": {
+				"release_version": "1.515",
+				"component": {
+					"1137~cbs": {
+						"commit_ids": ["fa7525b"]
+					}
+				},
+				"deployed_time": "2018_10_29_11_01_55"
+			}
+		}
+	}, {
+		"_id": "INC000002285381",
+		"RM_ID": {
+			"RM-110278": {
+				"release_version": "1.566",
+				"component": {
+					"1014~cbs": {
+						"commit_ids": ["abfef1f"]
+					}
+				},
+				"deployed_time": "2018_10_12_13_17_53"
+			}
+		}
+	}, {
+		"_id": "INC000002278099",
+		"RM_ID": {
+			"RM-109415": {
+				"release_version": "1.601",
+				"component": {
+					"common/globals_appsrv_inventory~cbs": {
+						"commit_ids": ["2bef434"]
+					}
+				},
+				"deployed_time": "2018_10_08_10_33_21"
+			}
+		}
+	}, {
+		"_id": "INC000002252515",
+		"RM_ID": {
+			"RM-117415": {
+				"release_version": "1.324",
+				"component": {
+					"jobs/Derby@Web/VCSR_Apply_Pack~cbs": {
+						"commit_ids": ["225a8ce"]
+					}
+				},
+				"deployed_time": "2019_01_30_16_35_04"
+			},
+			"RM-109929": {
+				"release_version": "1.590",
+				"component": {
+					"jobs/Derby@Web/VCSR_Apply_Pack~cbs": {
+						"commit_ids": ["19b3ee2"]
+					}
+				},
+				"deployed_time": "2018_10_24_12_29_42"
+			}
+		}
+	}, {
+		"_id": "INC000002251503",
+		"RM_ID": {
+			"RM-109429": {
+				"release_version": "1.593",
+				"component": {
+					"globals_appsrv_logistics~cbs": {
+						"commit_ids": ["e3f3a34"]
+					}
+				},
+				"deployed_time": "2018_10_24_17_36_07"
+			}
+		}
+	}, {
+		"_id": "INC000002250630",
+		"RM_ID": {
+			"RM-107545": {
+				"release_version": "1.675",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["dfb5a4b"]
+					}
+				},
+				"deployed_time": "2018_09_20_09_46_52"
+			}
+		}
+	}, {
+		"_id": "INC000002232342",
+		"RM_ID": {
+			"RM-111678": {
+				"release_version": "1.512",
+				"component": {
+					"14000~cbs": {
+						"commit_ids": ["043e2a0"]
+					}
+				},
+				"deployed_time": "2018_11_02_17_51_03"
+			}
+		}
+	}, {
+		"_id": "INC000002227688",
+		"RM_ID": {
+			"RM-114752": {
+				"release_version": "1.380",
+				"component": {
+					"jobs/sendOrders2ASSURANCEAPP~cbs": {
+						"commit_ids": ["8dfde96"]
+					}
+				},
+				"deployed_time": "2019_01_30_17_08_07"
+			}
+		}
+	}, {
+		"_id": "INC000002207592",
+		"RM_ID": {
+			"RM-106647": {
+				"release_version": "1.734",
+				"component": {
+					"jobs/ChewAddPRInteraction~cbs": {
+						"commit_ids": ["636b81e"]
+					}
+				},
+				"deployed_time": "2018_09_13_04_51_36"
+			}
+		}
+	}, {
+		"_id": "INC000002196692",
+		"RM_ID": {
+			"RM-106204": {
+				"release_version": "1.763",
+				"component": {
+					"jobs/Derby@Web/VCSR~cbs": {
+						"commit_ids": ["95af268"]
+					}
+				},
+				"deployed_time": "2018_09_14_11_40_30"
+			}
+		}
+	}, {
+		"_id": "INC000002196684",
+		"RM_ID": {
+			"RM-106033": {
+				"release_version": "1.774",
+				"component": {
+					"common/Derby@Web/globals_web_functions~cbs": {
+						"commit_ids": ["4eff103"]
+					}
+				},
+				"deployed_time": "2018_09_06_04_43_53"
+			}
+		}
+	}, {
+		"_id": "INC000002192346",
+		"RM_ID": {
+			"RM-104849": {
+				"release_version": "1.825",
+				"component": {
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["979f35b"]
+					}
+				},
+				"deployed_time": "2018_08_22_17_11_44"
+			}
+		}
+	}, {
+		"_id": "INC000002186618",
+		"RM_ID": {
+			"RM-104734": {
+				"release_version": "1.827",
+				"component": {
+					"jobs/Derby@Web/VCSR~cbs": {
+						"commit_ids": ["857f38b"]
+					}
+				},
+				"deployed_time": "2018_09_06_14_29_21"
+			}
+		}
+	}, {
+		"_id": "INC000002176644",
+		"RM_ID": {
+			"RM-104077": {
+				"release_version": "1.860",
+				"component": {
+					"1024~cbs": {
+						"commit_ids": ["582dc4e"]
+					}
+				},
+				"deployed_time": "2018_08_10_09_41_09"
+			}
+		}
+	}, {
+		"_id": "INC000002176337",
+		"RM_ID": {
+			"RM-109063": {
+				"release_version": "1.607",
+				"component": {
+					"common/globals_appsrv_configuration~cbs": {
+						"commit_ids": ["a2afb8d"]
+					},
+					"globals_appsrv_configuration~cbs": {
+						"commit_ids": ["eb35a5f"]
+					}
+				},
+				"deployed_time": "2018_10_25_10_49_27"
+			}
+		}
+	}, {
+		"_id": "INC000002173999",
+		"RM_ID": {
+			"RM-103376": {
+				"release_version": "1.901",
+				"component": {
+					"1126~cbs": {
+						"commit_ids": ["6fd6202"]
+					},
+					"11400~cbs": {
+						"commit_ids": ["6fd6202"]
+					},
+					"14000~cbs": {
+						"commit_ids": ["6fd6202"]
+					},
+					"1210~cbs": {
+						"commit_ids": ["6fd6202"]
+					}
+				},
+				"deployed_time": "2018_08_03_13_21_44"
+			},
+			"RM-104118": {
+				"release_version": "1.857",
+				"component": {
+					"14000~cbs": {
+						"commit_ids": ["eaf4d3e"]
+					}
+				},
+				"deployed_time": "2018_08_10_09_43_28"
+			}
+		}
+	}, {
+		"_id": "INC000002173670",
+		"RM_ID": {
+			"RM-103376": {
+				"release_version": "1.901",
+				"component": {
+					"1126~cbs": {
+						"commit_ids": ["6fd6202"]
+					},
+					"11400~cbs": {
+						"commit_ids": ["6fd6202"]
+					},
+					"14000~cbs": {
+						"commit_ids": ["6fd6202"]
+					},
+					"1210~cbs": {
+						"commit_ids": ["6fd6202"]
+					}
+				},
+				"deployed_time": "2018_08_03_13_21_44"
+			}
+		}
+	}, {
+		"_id": "INC000002173502",
+		"RM_ID": {
+			"RM-105182": {
+				"release_version": "1.811",
+				"component": {
+					"jobs/asap_upd_cly~cbs": {
+						"commit_ids": ["c4e1e9f"]
+					}
+				},
+				"deployed_time": "2018_10_17_04_18_56"
+			}
+		}
+	}, {
+		"_id": "INC000002173483",
+		"RM_ID": {
+			"RM-103376": {
+				"release_version": "1.901",
+				"component": {
+					"1126~cbs": {
+						"commit_ids": ["6fd6202"]
+					},
+					"11400~cbs": {
+						"commit_ids": ["6fd6202"]
+					},
+					"14000~cbs": {
+						"commit_ids": ["6fd6202"]
+					},
+					"1210~cbs": {
+						"commit_ids": ["6fd6202"]
+					}
+				},
+				"deployed_time": "2018_08_03_13_21_44"
+			}
+		}
+	}, {
+		"_id": "INC000002171824",
+		"RM_ID": {
+			"RM-112154": {
+				"release_version": "1.468",
+				"component": {
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["29610e0"]
+					}
+				},
+				"deployed_time": "2019_02_21_11_20_33"
+			}
+		}
+	}, {
+		"_id": "INC000002164795",
+		"RM_ID": {
+			"RM-102508": {
+				"release_version": "1.927",
+				"component": {
+					"1126~cbs": {
+						"commit_ids": ["f64dfb6"]
+					}
+				},
+				"deployed_time": "2018_07_30_05_18_27"
+			}
+		}
+	}, {
+		"_id": "INC000002161927",
+		"RM_ID": {
+			"RM-106610": {
+				"release_version": "1.738",
+				"component": {
+					"jobs/Derby@Web/VCSR~cbs": {
+						"commit_ids": ["7678852"]
+					}
+				},
+				"deployed_time": "2018_09_29_14_39_31"
+			}
+		}
+	}, {
+		"_id": "INC000002132086",
+		"RM_ID": {
+			"RM-105501": {
+				"release_version": "1.788",
+				"component": {
+					"common/globals_appsrv_configuration~cbs": {
+						"commit_ids": ["127b8e5"]
+					}
+				},
+				"deployed_time": "2018_10_25_10_27_39"
+			}
+		}
+	}, {
+		"_id": "INC000002111113",
+		"RM_ID": {
+			"RM-100047": {
+				"release_version": "1.981",
+				"component": {
+					"1137~cbs": {
+						"commit_ids": ["8d7b816"]
+					},
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["890473b"]
+					}
+				},
+				"deployed_time": "2018_06_27_04_39_48"
+			}
+		}
+	}, {
+		"_id": "INC000002103424",
+		"RM_ID": {
+			"RM-98139": {
+				"release_version": "1.999",
+				"component": {
+					"globals_appsrv_arbor~cbs": {
+						"commit_ids": ["69fd67f"]
+					}
+				},
+				"deployed_time": "2018_06_21_14_24_32"
+			}
+		}
+	}, {
+		"_id": "INC000002102327",
+		"RM_ID": {
+			"RM-99387": {
+				"release_version": "1.990",
+				"component": {
+					"1014~cbs": {
+						"commit_ids": ["a304bbb"]
+					}
+				},
+				"deployed_time": "2018_06_21_19_56_23"
+			}
+		}
+	}, {
+		"_id": "INC000002076360",
+		"RM_ID": {
+			"RM-99041": {
+				"release_version": "1.1005",
+				"component": {
+					"jobs/Derby@Web/VCSR_Mobile~cbs": {
+						"commit_ids": ["fe7f608"]
+					},
+					"jobs/Derby@Web/VCSR~cbs": {
+						"commit_ids": ["fe7f608"]
+					}
+				},
+				"deployed_time": "2018_06_20_15_13_05"
+			}
+		}
+	}, {
+		"_id": "INC000002071722",
+		"RM_ID": {
+			"RM-100599": {
+				"release_version": "1.969",
+				"component": {
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["6aab0d1"]
+					}
+				},
+				"deployed_time": "2018_07_05_19_21_49"
+			}
+		}
+	}, {
+		"_id": "INC000002068565",
+		"RM_ID": {
+			"RM-98217": {
+				"release_version": "1.818",
+				"component": {
+					"common/Derby@Web/globals_web_logistics~cbs": {
+						"commit_ids": ["da851f4"]
+					},
+					"jobs/fin2crm_credit_check~sh": {
+						"commit_ids": ["da851f4"]
+					},
+					"504~cbs": {
+						"commit_ids": ["c77880c"]
+					}
+				},
+				"deployed_time": "2018_11_29_15_15_11"
+			}
+		}
+	}, {
+		"_id": "INC000002068457",
+		"RM_ID": {
+			"RM-96151": {
+				"release_version": "1.36",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["f2222da"]
+					},
+					"1024~cbs": {
+						"commit_ids": ["f2222da"]
+					},
+					"jobs/dms/DMS_Integration~cbs": {
+						"commit_ids": ["ae8b3a7"]
+					}
+				},
+				"deployed_time": "2018_05_29_05_17_06"
+			}
+		}
+	}, {
+		"_id": "INC000002056143",
+		"RM_ID": {
+			"RM-98230": {
+				"release_version": "1.1023",
+				"component": {
+					"712~cbs": {
+						"commit_ids": ["a079801"]
+					},
+					"1024~cbs": {
+						"commit_ids": ["a079801"]
+					}
+				},
+				"deployed_time": "2018_06_07_13_05_31"
+			}
+		}
+	}, {
+		"_id": "INC000002056113",
+		"RM_ID": {
+			"RM-96151": {
+				"release_version": "1.36",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["f2222da"]
+					},
+					"1024~cbs": {
+						"commit_ids": ["f2222da"]
+					}
+				},
+				"deployed_time": "2018_05_29_05_17_06"
+			},
+			"RM-96857": {
+				"release_version": "1.52",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["0037571"]
+					},
+					"1024~cbs": {
+						"commit_ids": ["0037571"]
+					}
+				},
+				"deployed_time": "2018_05_22_13_11_41"
+			}
+		}
+	}, {
+		"_id": "INC000002048831",
+		"RM_ID": {
+			"RM-96857": {
+				"release_version": "1.52",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["0037571"]
+					},
+					"1024~cbs": {
+						"commit_ids": ["0037571"]
+					}
+				},
+				"deployed_time": "2018_05_22_13_11_41"
+			}
+		}
+	}, {
+		"_id": "INC000002040989",
+		"RM_ID": {
+			"RM-108091": {
+				"release_version": "1.655",
+				"component": {
+					"507~cbs": {
+						"commit_ids": ["808707c"]
+					}
+				},
+				"deployed_time": "2018_11_12_11_10_37"
+			},
+			"RM-103708": {
+				"release_version": "1.672",
+				"component": {
+					"507~cbs": {
+						"commit_ids": ["65217b7"]
+					}
+				},
+				"deployed_time": "2018_11_21_14_24_10"
+			}
+		}
+	}, {
+		"_id": "INC000002040572",
+		"RM_ID": {
+			"RM-110600": {
+				"release_version": "1.560",
+				"component": {
+					"1461~cbs": {
+						"commit_ids": ["a38bf6c"]
+					}
+				},
+				"deployed_time": "2018_10_16_15_27_03"
+			}
+		}
+	}, {
+		"_id": "INC000002037436",
+		"RM_ID": {
+			"RM-96696": {
+				"release_version": "1.64",
+				"component": {
+					"jobs/Derby@Web/VCSR_Mobile~cbs": {
+						"commit_ids": ["6631b66"]
+					}
+				},
+				"deployed_time": "2018_05_18_11_07_10"
+			}
+		}
+	}, {
+		"_id": "INC000002036399",
+		"RM_ID": {
+			"RM-98139": {
+				"release_version": "1.999",
+				"component": {
+					"globals_appsrv_arbor~cbs": {
+						"commit_ids": ["66fbd33"]
+					}
+				},
+				"deployed_time": "2018_06_21_14_24_32"
+			}
+		}
+	}, {
+		"_id": "INC000002028171",
+		"RM_ID": {
+			"RM-99128": {
+				"release_version": "1.989",
+				"component": {
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["355875e"]
+					},
+					"globals_appsrv_logistics~cbs": {
+						"commit_ids": ["169ab23"]
+					}
+				},
+				"deployed_time": "2018_09_30_00_14_56"
+			},
+			"RM-116876": {
+				"release_version": "1.332",
+				"component": {
+					"globals_web_logistics~cbs": {
+						"commit_ids": ["74f4de6"]
+					}
+				},
+				"deployed_time": "2019_01_30_16_26_49"
+			}
+		}
+	}, {
+		"_id": "INC000002001337",
+		"RM_ID": {
+			"RM-96553": {
+				"release_version": "1.60",
+				"component": {
+					"504~dat": {
+						"commit_ids": ["c03c987"]
+					}
+				},
+				"deployed_time": "2018_05_23_17_32_44"
+			}
+		}
+	}, {
+		"_id": "INC000001995975",
+		"RM_ID": {
+			"RM-102508": {
+				"release_version": "1.927",
+				"component": {
+					"1126~cbs": {
+						"commit_ids": ["f962b45"]
+					},
+					"1126~dat": {
+						"commit_ids": ["f962b45"]
+					}
+				},
+				"deployed_time": "2018_07_30_05_18_27"
+			}
+		}
+	}, {
+		"_id": "INC000001964875",
+		"RM_ID": {
+			"RM-94680": {
+				"release_version": "1.103",
+				"component": {
+					"jobs/ChewAddPRInteraction~cbs": {
+						"commit_ids": ["286d222"]
+					}
+				},
+				"deployed_time": "2018_04_25_15_35_39"
+			}
+		}
+	}, {
+		"_id": "INC000001942424",
+		"RM_ID": {
+			"RM-93394": {
+				"release_version": "1.15",
+				"component": {
+					"globals_appsrv_logistics~cbs": {
+						"commit_ids": ["2c5513a"]
+					}
+				},
+				"deployed_time": "2018_06_07_06_43_08"
+			}
+		}
+	}, {
+		"_id": "INC000001853550",
+		"RM_ID": {
+			"RM-93393": {
+				"release_version": "1.125",
+				"component": {
+					"jobs/sendOrders2ASSURANCEAPP~cbs": {
+						"commit_ids": ["5131565"]
+					}
+				},
+				"deployed_time": "2018_04_25_15_58_18"
+			}
+		}
+	}, {
+		"_id": "INC000001851857",
+		"RM_ID": {
+			"RM-117415": {
+				"release_version": "1.324",
+				"component": {
+					"jobs/Derby@Web/VCSR_Apply_Pack~cbs": {
+						"commit_ids": ["225a8ce"]
+					}
+				},
+				"deployed_time": "2019_01_30_16_35_04"
+			},
+			"RM-105330": {
+				"release_version": "1.797",
+				"component": {
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["b739edd"]
+					}
+				},
+				"deployed_time": "2018_09_30_00_18_40"
+			}
+		}
+	}, {
+		"_id": "INC000001830901",
+		"RM_ID": {
+			"RM-85851": {
+				"release_version": "1.253",
+				"component": {
+					"1024~cbs": {
+						"commit_ids": ["c35c8a3"]
+					}
+				},
+				"deployed_time": "2018_01_24_14_45_07"
+			}
+		}
+	}, {
+		"_id": "INC000001698806",
+		"RM_ID": {
+			"RM-103707": {
+				"release_version": "1.879",
+				"component": {
+					"1210~cbs": {
+						"commit_ids": ["a88419e"]
+					}
+				},
+				"deployed_time": "2018_10_24_17_20_12"
+			}
+		}
+	}, {
+		"_id": "INC000001698120",
+		"RM_ID": {
+			"RM-87544": {
+				"release_version": "1.216",
+				"component": {
+					"jobs/Finish_Install~cbs": {
+						"commit_ids": ["8689313"]
+					}
+				},
+				"deployed_time": "2018_02_28_14_42_33"
+			}
+		}
+	}, {
+		"_id": "INC000001371015",
+		"RM_ID": {
+			"RM-117649": {
+				"release_version": "1.317",
+				"component": {
+					"jobs/sendOrders2ASSURANCEAPP~cbs": {
+						"commit_ids": ["e5ae507"]
+					}
+				},
+				"deployed_time": "2019_02_15_06_02_12"
+			}
+		}
+	}, {
+		"_id": "INC000001368533",
+		"RM_ID": {
+			"RM-117649": {
+				"release_version": "1.317",
+				"component": {
+					"jobs/sendOrders2ASSURANCEAPP~cbs": {
+						"commit_ids": ["e5ae507"]
+					}
+				},
+				"deployed_time": "2019_02_15_06_02_12"
+			}
+		}
+	}, {
+		"_id": "ETF-9",
+		"RM_ID": {
+			"RM-103576": {
+				"release_version": "1.885",
+				"component": {
+					"1202~dat": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1202~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1210~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1204~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1206~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"11400~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1163~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"11500~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1163~dat": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1210~dat": {
+						"commit_ids": ["8bc9158"]
+					}
+				},
+				"deployed_time": "2018_11_27_13_48_08"
+			}
+		}
+	}, {
+		"_id": "ETF-74",
+		"RM_ID": {
+			"RM-107860": {
+				"release_version": "1.665",
+				"component": {
+					"jobs/Derby@Web/VCSR~cbs": {
+						"commit_ids": ["8db654b"]
+					}
+				},
+				"deployed_time": "2018_09_29_14_47_18"
+			}
+		}
+	}, {
+		"_id": "ETF-73",
+		"RM_ID": {
+			"RM-107066": {
+				"release_version": "1.717",
+				"component": {
+					"jobs/ChewCreateCase~cbs": {
+						"commit_ids": ["f2dc1d3"]
+					}
+				},
+				"deployed_time": "2018_10_29_10_46_23"
+			}
+		}
+	}, {
+		"_id": "ETF-72",
+		"RM_ID": {
+			"RM-106538": {
+				"release_version": "1.736",
+				"component": {
+					"502~cbs": {
+						"commit_ids": ["eeb062a"]
+					}
+				},
+				"deployed_time": "2018_10_25_11_14_20"
+			}
+		}
+	}, {
+		"_id": "ETF-70",
+		"RM_ID": {
+			"RM-105329": {
+				"release_version": "1.800",
+				"component": {
+					"9150~cbs": {
+						"commit_ids": ["6df4821"]
+					},
+					"1005~cbs": {
+						"commit_ids": ["6df4821"]
+					}
+				},
+				"deployed_time": "2018_10_11_23_43_31"
+			},
+			"RM-106538": {
+				"release_version": "1.736",
+				"component": {
+					"1005~cbs": {
+						"commit_ids": ["7ca496f"]
+					}
+				},
+				"deployed_time": "2018_10_25_11_14_20"
+			}
+		}
+	}, {
+		"_id": "ETF-7",
+		"RM_ID": {
+			"RM-104461": {
+				"release_version": "1.836",
+				"component": {
+					"1205~cbs": {
+						"commit_ids": ["6cae969"]
+					},
+					"1212~cbs": {
+						"commit_ids": ["6cae969"]
+					}
+				},
+				"deployed_time": "2018_10_03_10_04_54"
+			}
+		}
+	}, {
+		"_id": "ETF-68",
+		"RM_ID": {
+			"RM-108381": {
+				"release_version": "1.650",
+				"component": {
+					"1163~cbs": {
+						"commit_ids": ["539d3ca"]
+					}
+				},
+				"deployed_time": "2018_09_28_09_42_03"
+			}
+		}
+	}, {
+		"_id": "ETF-62",
+		"RM_ID": {
+			"RM-107860": {
+				"release_version": "1.665",
+				"component": {
+					"jobs/Derby@Web/VCSR~cbs": {
+						"commit_ids": ["748fa01"]
+					}
+				},
+				"deployed_time": "2018_09_29_14_47_18"
+			}
+		}
+	}, {
+		"_id": "ETF-58",
+		"RM_ID": {
+			"RM-106633": {
+				"release_version": "1.694",
+				"component": {
+					"1065~dat": {
+						"commit_ids": ["0a4a134"]
+					}
+				},
+				"deployed_time": "2018_10_03_10_55_26"
+			}
+		}
+	}, {
+		"_id": "ETF-55",
+		"RM_ID": {
+			"RM-105307": {
+				"release_version": "1.801",
+				"component": {
+					"1165~dat": {
+						"commit_ids": ["ad2dd01"]
+					},
+					"1163~dat": {
+						"commit_ids": ["ad2dd01"]
+					},
+					"1163~cbs": {
+						"commit_ids": ["ad2dd01"]
+					},
+					"1165~cbs": {
+						"commit_ids": ["ad2dd01"]
+					}
+				},
+				"deployed_time": "2018_09_21_09_29_15"
+			}
+		}
+	}, {
+		"_id": "ETF-51",
+		"RM_ID": {
+			"RM-108048": {
+				"release_version": "1.658",
+				"component": {
+					"502~cbs": {
+						"commit_ids": ["72dfe2a"]
+					}
+				},
+				"deployed_time": "2018_10_25_11_11_24"
+			}
+		}
+	}, {
+		"_id": "ETF-166",
+		"RM_ID": {
+			"RM-121576": {
+				"release_version": "1.132",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["b99ebc0"]
+					},
+					"1166~cbs": {
+						"commit_ids": ["b99ebc0"]
+					}
+				},
+				"deployed_time": "2019_03_29_04_52_45"
+			}
+		}
+	}, {
+		"_id": "ETF-163",
+		"RM_ID": {
+			"RM-121576": {
+				"release_version": "1.132",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["b99ebc0"]
+					},
+					"1166~cbs": {
+						"commit_ids": ["b99ebc0"]
+					}
+				},
+				"deployed_time": "2019_03_29_04_52_45"
+			}
+		}
+	}, {
+		"_id": "ETF-158",
+		"RM_ID": {
+			"RM-121576": {
+				"release_version": "1.132",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["7b61366"]
+					},
+					"1166~cbs": {
+						"commit_ids": ["7b61366"]
+					}
+				},
+				"deployed_time": "2019_03_29_04_52_45"
+			}
+		}
+	}, {
+		"_id": "ETF-157",
+		"RM_ID": {
+			"RM-121576": {
+				"release_version": "1.132",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["7b61366"]
+					},
+					"1166~cbs": {
+						"commit_ids": ["7b61366"]
+					}
+				},
+				"deployed_time": "2019_03_29_04_52_45"
+			}
+		}
+	}, {
+		"_id": "ETF-156",
+		"RM_ID": {
+			"RM-121576": {
+				"release_version": "1.132",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["b99ebc0"]
+					},
+					"1166~cbs": {
+						"commit_ids": ["b99ebc0"]
+					}
+				},
+				"deployed_time": "2019_03_29_04_52_45"
+			}
+		}
+	}, {
+		"_id": "ETF-152",
+		"RM_ID": {
+			"RM-121576": {
+				"release_version": "1.132",
+				"component": {
+					"1461~cbs": {
+						"commit_ids": ["ea35375"]
+					},
+					"1460~cbs": {
+						"commit_ids": ["ea35375"]
+					}
+				},
+				"deployed_time": "2019_03_29_04_52_45"
+			}
+		}
+	}, {
+		"_id": "ETF-150",
+		"RM_ID": {
+			"RM-118275": {
+				"release_version": "1.308",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["7bffecd"]
+					}
+				},
+				"deployed_time": "2019_03_29_04_49_10"
+			}
+		}
+	}, {
+		"_id": "ETF-145",
+		"RM_ID": {
+			"RM-121576": {
+				"release_version": "1.132",
+				"component": {
+					"1461~cbs": {
+						"commit_ids": ["5f6c01c"]
+					}
+				},
+				"deployed_time": "2019_03_29_04_52_45"
+			}
+		}
+	}, {
+		"_id": "ETF-140",
+		"RM_ID": {
+			"RM-118742": {
+				"release_version": "1.290",
+				"component": {
+					"jobs/Free_Cancelled_Reserved_DN~sql": {
+						"commit_ids": ["17b0ea2"]
+					}
+				},
+				"deployed_time": "2019_03_04_05_26_57"
+			}
+		}
+	}, {
+		"_id": "ETF-139",
+		"RM_ID": {
+			"RM-118275": {
+				"release_version": "1.308",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["b3d3490"]
+					}
+				},
+				"deployed_time": "2019_03_29_04_49_10"
+			}
+		}
+	}, {
+		"_id": "ETF-136",
+		"RM_ID": {
+			"RM-118275": {
+				"release_version": "1.308",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["b3d3490"]
+					}
+				},
+				"deployed_time": "2019_03_29_04_49_10"
+			}
+		}
+	}, {
+		"_id": "ETF-135",
+		"RM_ID": {
+			"RM-118275": {
+				"release_version": "1.308",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["b3d3490"]
+					}
+				},
+				"deployed_time": "2019_03_29_04_49_10"
+			}
+		}
+	}, {
+		"_id": "ETF-134",
+		"RM_ID": {
+			"RM-118275": {
+				"release_version": "1.308",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["b3d3490"]
+					}
+				},
+				"deployed_time": "2019_03_29_04_49_10"
+			}
+		}
+	}, {
+		"_id": "ETF-132",
+		"RM_ID": {
+			"RM-117412": {
+				"release_version": "1.325",
+				"component": {
+					"1210~cbs": {
+						"commit_ids": ["5fb4fc4"]
+					}
+				},
+				"deployed_time": "2019_02_11_13_10_02"
+			}
+		}
+	}, {
+		"_id": "ETF-113",
+		"RM_ID": {
+			"RM-113931": {
+				"release_version": "1.427",
+				"component": {
+					"1037~cbs": {
+						"commit_ids": ["61925f7"]
+					}
+				},
+				"deployed_time": "2018_11_29_10_19_31"
+			}
+		}
+	}, {
+		"_id": "ETF-110",
+		"RM_ID": {
+			"RM-113931": {
+				"release_version": "1.427",
+				"component": {
+					"1037~cbs": {
+						"commit_ids": ["b98795e"]
+					},
+					"1037~dat": {
+						"commit_ids": ["b98795e"]
+					}
+				},
+				"deployed_time": "2018_11_29_10_19_31"
+			}
+		}
+	}, {
+		"_id": "ETF-108",
+		"RM_ID": {
+			"RM-113931": {
+				"release_version": "1.427",
+				"component": {
+					"1037~cbs": {
+						"commit_ids": ["b98795e"]
+					},
+					"1037~dat": {
+						"commit_ids": ["b98795e"]
+					}
+				},
+				"deployed_time": "2018_11_29_10_19_31"
+			}
+		}
+	}, {
+		"_id": "ETF-107",
+		"RM_ID": {
+			"RM-113931": {
+				"release_version": "1.427",
+				"component": {
+					"1037~cbs": {
+						"commit_ids": ["b98795e"]
+					},
+					"1037~dat": {
+						"commit_ids": ["b98795e"]
+					}
+				},
+				"deployed_time": "2018_11_29_10_19_31"
+			}
+		}
+	}, {
+		"_id": "ETF-10",
+		"RM_ID": {
+			"RM-103576": {
+				"release_version": "1.885",
+				"component": {
+					"1202~dat": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1202~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1210~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1204~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1206~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"11400~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1163~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"11500~cbs": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1163~dat": {
+						"commit_ids": ["8bc9158"]
+					},
+					"1210~dat": {
+						"commit_ids": ["8bc9158"]
+					}
+				},
+				"deployed_time": "2018_11_27_13_48_08"
+			}
+		}
+	}, {
+		"_id": "EOS-56",
+		"RM_ID": {
+			"RM-107243": {
+				"release_version": "1.696",
+				"component": {
+					"1461~cbs": {
+						"commit_ids": ["ab11913"]
+					},
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["bb4c809"]
+					},
+					"globals_appsrv_logistics~cbs": {
+						"commit_ids": ["6f975d3"]
+					}
+				},
+				"deployed_time": "2018_09_30_00_09_23"
+			}
+		}
+	}, {
+		"_id": "EOS-290",
+		"RM_ID": {
+			"RM-106521": {
+				"release_version": "1.741",
+				"component": {
+					"jobs/receiveOrdersFromASSURANCEAPP~cbs": {
+						"commit_ids": ["14e4275"]
+					}
+				},
+				"deployed_time": "2018_12_11_12_57_45"
+			}
+		}
+	}, {
+		"_id": "EOS-287",
+		"RM_ID": {
+			"RM-109521": {
+				"release_version": "1.594",
+				"component": {
+					"507~cbs": {
+						"commit_ids": ["84e411a"]
+					}
+				},
+				"deployed_time": "2018_11_30_12_04_01"
+			}
+		}
+	}, {
+		"_id": "EOS-277",
+		"RM_ID": {
+			"RM-112846": {
+				"release_version": "1.473",
+				"component": {
+					"502~cbs": {
+						"commit_ids": ["e62be89"]
+					}
+				},
+				"deployed_time": "2018_11_14_08_54_41"
+			}
+		}
+	}, {
+		"_id": "EOS-271",
+		"RM_ID": {
+			"RM-112819": {
+				"release_version": "1.474",
+				"component": {
+					"jobs/Derby@Web/VCSR~cbs": {
+						"commit_ids": ["6972f1a"]
+					}
+				},
+				"deployed_time": "2018_11_15_11_54_20"
+			}
+		}
+	}, {
+		"_id": "EOS-269",
+		"RM_ID": {
+			"RM-112974": {
+				"release_version": "1.467",
+				"component": {
+					"1461~cbs": {
+						"commit_ids": ["c886e06"]
+					},
+					"common/globals_appsrv_plus_tv~cbs": {
+						"commit_ids": ["0c4522f"]
+					}
+				},
+				"deployed_time": "2018_11_27_13_34_23"
+			}
+		}
+	}, {
+		"_id": "EOS-264",
+		"RM_ID": {
+			"RM-105524": {
+				"release_version": "1.790",
+				"component": {
+					"jobs/Mig2DMM/D4A_SWAP~cbs": {
+						"commit_ids": ["08ba53d"]
+					}
+				},
+				"deployed_time": "2018_10_24_18_16_06"
+			}
+		}
+	}, {
+		"_id": "EOS-262",
+		"RM_ID": {
+			"RM-112819": {
+				"release_version": "1.474",
+				"component": {
+					"jobs/Derby@Web/VCSR~cbs": {
+						"commit_ids": ["6972f1a"]
+					}
+				},
+				"deployed_time": "2018_11_15_11_54_20"
+			}
+		}
+	}, {
+		"_id": "EOS-261",
+		"RM_ID": {
+			"RM-105524": {
+				"release_version": "1.790",
+				"component": {
+					"jobs/Mig2DMM/D4A_SWAP~cbs": {
+						"commit_ids": ["08ba53d"]
+					}
+				},
+				"deployed_time": "2018_10_24_18_16_06"
+			}
+		}
+	}, {
+		"_id": "EOS-257",
+		"RM_ID": {
+			"RM-100795": {
+				"release_version": "1.971",
+				"component": {
+					"common/globals_appsrv_Mig2DMM~cbs": {
+						"commit_ids": ["1cad4e6"]
+					},
+					"common/globals_appsrv_configuration~cbs": {
+						"commit_ids": ["1cad4e6"]
+					},
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["1cad4e6"]
+					},
+					"1014~cbs": {
+						"commit_ids": ["de3b4e2"]
+					},
+					"1460~cbs": {
+						"commit_ids": ["de3b4e2"]
+					}
+				},
+				"deployed_time": "2018_10_25_10_43_00"
+			}
+		}
+	}, {
+		"_id": "EOS-254",
+		"RM_ID": {
+			"RM-112163": {
+				"release_version": "1.494",
+				"component": {
+					"1461~cbs": {
+						"commit_ids": ["1edc4d7"]
+					}
+				},
+				"deployed_time": "2018_11_12_11_17_34"
+			}
+		}
+	}, {
+		"_id": "EOS-253",
+		"RM_ID": {
+			"RM-104647": {
+				"release_version": "1.838",
+				"component": {
+					"519~cbs": {
+						"commit_ids": ["284fc7f"]
+					},
+					"519~dat": {
+						"commit_ids": ["284fc7f"]
+					}
+				},
+				"deployed_time": "2018_10_17_13_34_18"
+			}
+		}
+	}, {
+		"_id": "EOS-238",
+		"RM_ID": {
+			"RM-100795": {
+				"release_version": "1.971",
+				"component": {
+					"common/globals_appsrv_Mig2DMM~cbs": {
+						"commit_ids": ["1cad4e6"]
+					},
+					"common/globals_appsrv_configuration~cbs": {
+						"commit_ids": ["1cad4e6"]
+					},
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["1cad4e6"]
+					},
+					"1014~cbs": {
+						"commit_ids": ["de3b4e2"]
+					},
+					"1460~cbs": {
+						"commit_ids": ["de3b4e2"]
+					}
+				},
+				"deployed_time": "2018_10_25_10_43_00"
+			}
+		}
+	}, {
+		"_id": "EOS-234",
+		"RM_ID": {
+			"RM-109930": {
+				"release_version": "1.589",
+				"component": {
+					"globals_appsrv_DMM_tux~cbs": {
+						"commit_ids": ["87cae9d"]
+					}
+				},
+				"deployed_time": "2018_10_11_23_37_02"
+			}
+		}
+	}, {
+		"_id": "EOS-231",
+		"RM_ID": {
+			"RM-109371": {
+				"release_version": "1.583",
+				"component": {
+					"globals_functions~cbs": {
+						"commit_ids": ["a964c48"]
+					},
+					"1014~cbs": {
+						"commit_ids": ["b5948be"]
+					}
+				},
+				"deployed_time": "2018_11_15_10_38_49"
+			}
+		}
+	}, {
+		"_id": "EOS-226",
+		"RM_ID": {
+			"RM-109371": {
+				"release_version": "1.583",
+				"component": {
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["35e161b"]
+					},
+					"globals_functions~cbs": {
+						"commit_ids": ["a964c48"]
+					},
+					"1014~cbs": {
+						"commit_ids": ["b5948be"]
+					}
+				},
+				"deployed_time": "2018_11_15_10_38_49"
+			}
+		}
+	}, {
+		"_id": "EOS-225",
+		"RM_ID": {
+			"RM-107243": {
+				"release_version": "1.696",
+				"component": {
+					"1461~cbs": {
+						"commit_ids": ["2945dd9"]
+					},
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["65c4f61"]
+					},
+					"globals_appsrv_gStrings~cbs": {
+						"commit_ids": ["4df23b4"]
+					},
+					"globals_appsrv_logistics~cbs": {
+						"commit_ids": ["4df23b4"]
+					}
+				},
+				"deployed_time": "2018_09_30_00_09_23"
+			}
+		}
+	}, {
+		"_id": "EOS-224",
+		"RM_ID": {
+			"RM-110600": {
+				"release_version": "1.560",
+				"component": {
+					"1461~cbs": {
+						"commit_ids": ["a38bf6c"]
+					}
+				},
+				"deployed_time": "2018_10_16_15_27_03"
+			}
+		}
+	}, {
+		"_id": "EOS-222",
+		"RM_ID": {
+			"RM-112199": {
+				"release_version": "1.492",
+				"component": {
+					"common/globals_appsrv_Mig2DMM~cbs": {
+						"commit_ids": ["12e169b"]
+					}
+				},
+				"deployed_time": "2018_11_01_10_42_12"
+			}
+		}
+	}, {
+		"_id": "EOS-221",
+		"RM_ID": {
+			"RM-107910": {
+				"release_version": "1.663",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["bcf5ffb"]
+					}
+				},
+				"deployed_time": "2018_09_28_12_35_54"
+			}
+		}
+	}, {
+		"_id": "EOS-218",
+		"RM_ID": {
+			"RM-108447": {
+				"release_version": "1.643",
+				"component": {
+					"9669~cbs": {
+						"commit_ids": ["a5cb705"]
+					},
+					"jobs/Derby@Web/VCSR~cbs": {
+						"commit_ids": ["306441e"]
+					}
+				},
+				"deployed_time": "2018_09_29_14_21_04"
+			}
+		}
+	}, {
+		"_id": "EOS-211",
+		"RM_ID": {
+			"RM-106861": {
+				"release_version": "1.723",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["3e0ea28"]
+					},
+					"common/globals_appsrv_configuration~cbs": {
+						"commit_ids": ["0c3d9bc"]
+					}
+				},
+				"deployed_time": "2018_09_16_18_32_25"
+			}
+		}
+	}, {
+		"_id": "EOS-209",
+		"RM_ID": {
+			"RM-106861": {
+				"release_version": "1.723",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["3e0ea28"]
+					},
+					"common/globals_appsrv_configuration~cbs": {
+						"commit_ids": ["0c3d9bc"]
+					}
+				},
+				"deployed_time": "2018_09_16_18_32_25"
+			}
+		}
+	}, {
+		"_id": "EOS-206",
+		"RM_ID": {
+			"RM-101042": {
+				"release_version": "1.965",
+				"component": {
+					"jobs/MigrationSingleRoomEOS~sql": {
+						"commit_ids": ["42606fb"]
+					}
+				},
+				"deployed_time": "2018_09_13_04_41_58"
+			}
+		}
+	}, {
+		"_id": "EOS-201",
+		"RM_ID": {
+			"RM-105573": {
+				"release_version": "1.783",
+				"component": {
+					"globals_appsrv_DMM_tux~cbs": {
+						"commit_ids": ["faf3476"]
+					}
+				},
+				"deployed_time": "2018_09_28_12_32_10"
+			}
+		}
+	}, {
+		"_id": "EOS-196",
+		"RM_ID": {
+			"RM-104647": {
+				"release_version": "1.838",
+				"component": {
+					"519~cbs": {
+						"commit_ids": ["284fc7f"]
+					},
+					"519~dat": {
+						"commit_ids": ["284fc7f"]
+					}
+				},
+				"deployed_time": "2018_10_17_13_34_18"
+			}
+		}
+	}, {
+		"_id": "EOS-195",
+		"RM_ID": {
+			"RM-106520": {
+				"release_version": "1.745",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["c7e78b2"]
+					}
+				},
+				"deployed_time": "2018_09_14_17_21_25"
+			}
+		}
+	}, {
+		"_id": "EOS-191",
+		"RM_ID": {
+			"RM-104950": {
+				"release_version": "1.822",
+				"component": {
+					"502~cbs": {
+						"commit_ids": ["85f8190"]
+					},
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["22de2fd"]
+					}
+				},
+				"deployed_time": "2018_08_22_17_27_00"
+			}
+		}
+	}, {
+		"_id": "EOS-189",
+		"RM_ID": {
+			"RM-101909": {
+				"release_version": "1.933",
+				"component": {
+					"1014~cbs": {
+						"commit_ids": ["b428967"]
+					},
+					"690~cbs": {
+						"commit_ids": ["b428967"]
+					}
+				},
+				"deployed_time": "2018_09_30_00_25_03"
+			}
+		}
+	}, {
+		"_id": "EOS-188",
+		"RM_ID": {
+			"RM-101042": {
+				"release_version": "1.965",
+				"component": {
+					"jobs/MigrationSingleRoomEOS~sh": {
+						"commit_ids": ["946b38e"]
+					},
+					"jobs/MigrationSingleRoomEOS~sql": {
+						"commit_ids": ["946b38e"]
+					}
+				},
+				"deployed_time": "2018_09_13_04_41_58"
+			}
+		}
+	}, {
+		"_id": "EOS-180",
+		"RM_ID": {
+			"RM-104950": {
+				"release_version": "1.822",
+				"component": {
+					"502~cbs": {
+						"commit_ids": ["d9346f6"]
+					},
+					"jobs/Mig2DMM/Mig2DMM_POD_POND~cbs": {
+						"commit_ids": ["e965bd8"]
+					},
+					"common/globals_appsrv_plus_tv~cbs": {
+						"commit_ids": ["e965bd8"]
+					},
+					"1401~cbs": {
+						"commit_ids": ["d9346f6"]
+					},
+					"1461~cbs": {
+						"commit_ids": ["d9346f6"]
+					},
+					"1460~cbs": {
+						"commit_ids": ["d9346f6"]
+					},
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["e965bd8"]
+					},
+					"jobs/Mig2DMM/Mig2DMM_Proc~cbs": {
+						"commit_ids": ["e965bd8"]
+					},
+					"jobs/receiveOrdersFromASSURANCEAPP~cbs": {
+						"commit_ids": ["e965bd8"]
+					}
+				},
+				"deployed_time": "2018_08_22_17_27_00"
+			}
+		}
+	}, {
+		"_id": "EOS-179",
+		"RM_ID": {
+			"RM-104950": {
+				"release_version": "1.822",
+				"component": {
+					"502~cbs": {
+						"commit_ids": ["d9346f6"]
+					},
+					"jobs/Mig2DMM/Mig2DMM_POD_POND~cbs": {
+						"commit_ids": ["e965bd8"]
+					},
+					"common/globals_appsrv_plus_tv~cbs": {
+						"commit_ids": ["e965bd8"]
+					},
+					"1401~cbs": {
+						"commit_ids": ["d9346f6"]
+					},
+					"1461~cbs": {
+						"commit_ids": ["d9346f6"]
+					},
+					"1460~cbs": {
+						"commit_ids": ["d9346f6"]
+					},
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["e965bd8"]
+					},
+					"jobs/Mig2DMM/Mig2DMM_Proc~cbs": {
+						"commit_ids": ["e965bd8"]
+					},
+					"jobs/receiveOrdersFromASSURANCEAPP~cbs": {
+						"commit_ids": ["e965bd8"]
+					}
+				},
+				"deployed_time": "2018_08_22_17_27_00"
+			}
+		}
+	}, {
+		"_id": "EOS-173",
+		"RM_ID": {
+			"RM-104189": {
+				"release_version": "1.854",
+				"component": {
+					"1137~cbs": {
+						"commit_ids": ["afdfccd"]
+					},
+					"common/globals_appsrv_configuration~cbs": {
+						"commit_ids": ["76b84b4"]
+					},
+					"1460~cbs": {
+						"commit_ids": ["afdfccd"]
+					}
+				},
+				"deployed_time": "2018_09_06_13_21_05"
+			}
+		}
+	}, {
+		"_id": "EOS-172",
+		"RM_ID": {
+			"RM-104189": {
+				"release_version": "1.854",
+				"component": {
+					"1137~cbs": {
+						"commit_ids": ["afdfccd"]
+					},
+					"common/globals_appsrv_configuration~cbs": {
+						"commit_ids": ["76b84b4"]
+					},
+					"1460~cbs": {
+						"commit_ids": ["afdfccd"]
+					}
+				},
+				"deployed_time": "2018_09_06_13_21_05"
+			}
+		}
+	}, {
+		"_id": "EOS-170",
+		"RM_ID": {
+			"RM-104950": {
+				"release_version": "1.822",
+				"component": {
+					"502~cbs": {
+						"commit_ids": ["d9346f6"]
+					},
+					"jobs/Mig2DMM/Mig2DMM_POD_POND~cbs": {
+						"commit_ids": ["e965bd8"]
+					},
+					"common/globals_appsrv_plus_tv~cbs": {
+						"commit_ids": ["e965bd8"]
+					},
+					"1401~cbs": {
+						"commit_ids": ["d9346f6"]
+					},
+					"1461~cbs": {
+						"commit_ids": ["d9346f6"]
+					},
+					"1460~cbs": {
+						"commit_ids": ["d9346f6"]
+					},
+					"common/globals_appsrv_logistics~cbs": {
+						"commit_ids": ["e965bd8"]
+					},
+					"jobs/Mig2DMM/Mig2DMM_Proc~cbs": {
+						"commit_ids": ["e965bd8"]
+					},
+					"jobs/receiveOrdersFromASSURANCEAPP~cbs": {
+						"commit_ids": ["e965bd8"]
+					}
+				},
+				"deployed_time": "2018_08_22_17_27_00"
+			}
+		}
+	}, {
+		"_id": "EOS-168",
+		"RM_ID": {
+			"RM-101909": {
+				"release_version": "1.933",
+				"component": {
+					"1014~cbs": {
+						"commit_ids": ["b428967"]
+					},
+					"690~cbs": {
+						"commit_ids": ["b428967"]
+					}
+				},
+				"deployed_time": "2018_09_30_00_25_03"
+			},
+			"RM-109371": {
+				"release_version": "1.583",
+				"component": {
+					"globals_functions~cbs": {
+						"commit_ids": ["a964c48"]
+					},
+					"1014~cbs": {
+						"commit_ids": ["b5948be"]
+					}
+				},
+				"deployed_time": "2018_11_15_10_38_49"
+			}
+		}
+	}, {
+		"_id": "EOS-159",
+		"RM_ID": {
+			"RM-102133": {
+				"release_version": "1.937",
+				"component": {
+					"globals_appsrv_shopping_basket~cbs": {
+						"commit_ids": ["6483abc"]
+					},
+					"jobs/Derby@Web/VCSR~cbs": {
+						"commit_ids": ["6a0cabb"]
+					},
+					"globals_appsrv_logistics~cbs": {
+						"commit_ids": ["6483abc"]
+					}
+				},
+				"deployed_time": "2018_07_26_12_13_49"
+			}
+		}
+	}, {
+		"_id": "EOS-158",
+		"RM_ID": {
+			"RM-102133": {
+				"release_version": "1.937",
+				"component": {
+					"globals_appsrv_shopping_basket~cbs": {
+						"commit_ids": ["6483abc"]
+					},
+					"jobs/Derby@Web/VCSR~cbs": {
+						"commit_ids": ["6a0cabb"]
+					},
+					"globals_appsrv_logistics~cbs": {
+						"commit_ids": ["6483abc"]
+					}
+				},
+				"deployed_time": "2018_07_26_12_13_49"
+			}
+		}
+	}, {
+		"_id": "EOS-148",
+		"RM_ID": {
+			"RM-98564": {
+				"release_version": "1.1009",
+				"component": {
+					"9669~cbs": {
+						"commit_ids": ["7659e32"]
+					}
+				},
+				"deployed_time": "2018_08_16_03_31_55"
+			}
+		}
+	}, {
+		"_id": "EOS-125",
+		"RM_ID": {
+			"RM-99225": {
+				"release_version": "1.995",
+				"component": {
+					"globals_appsrv_configuration~cbs": {
+						"commit_ids": ["3e850e8"]
+					},
+					"globals_appsrv_logistics~cbs": {
+						"commit_ids": ["3e850e8"]
+					}
+				},
+				"deployed_time": "2018_06_20_19_02_57"
+			}
+		}
+	}, {
+		"_id": "EOS-123",
+		"RM_ID": {
+			"RM-99263": {
+				"release_version": "1.991",
+				"component": {
+					"1460~cbs": {
+						"commit_ids": ["d68eb97"]
+					},
+					"9150~cbs": {
+						"commit_ids": ["d68eb97"]
+					}
+				},
+				"deployed_time": "2018_06_20_19_10_58"
+			}
+		}
+	}, {
+		"_id": "EOS-119",
+		"RM_ID": {
+			"RM-103478": {
+				"release_version": "1.894",
+				"component": {
+					"1401~cbs": {
+						"commit_ids": ["c9ca890"]
+					},
+					"1445~cbs": {
+						"commit_ids": ["c9ca890"]
+					}
+				},
+				"deployed_time": "2018_08_22_17_37_23"
+			}
+		}
+	}, {
+		"_id": "EOS-117",
+		"RM_ID": {
+			"RM-98488": {
+				"release_version": "1.1017",
+				"component": {
+					"globals_appsrv_DMM_tux~cbs": {
+						"commit_ids": ["39ce896"]
+					}
+				},
+				"deployed_time": "2018_06_08_15_36_17"
+			}
+		}
+	}, {
+		"_id": "EOS-115",
+		"RM_ID": {
+			"RM-105573": {
+				"release_version": "1.783",
+				"component": {
+					"globals_appsrv_DMM_tux~cbs": {
+						"commit_ids": ["774a0c5"]
+					}
+				},
+				"deployed_time": "2018_09_28_12_32_10"
+			}
+		}
+	}, {
+		"_id": "EOS-103",
+		"RM_ID": {
+			"RM-96697": {
+				"release_version": "1.67",
+				"component": {
+					"1014~cbs": {
+						"commit_ids": ["e3b8fe9"]
+					}
+				},
+				"deployed_time": "2018_05_18_11_15_00"
+			}
+		}
+	}, {
+		"_id": "EOS-100",
+		"RM_ID": {
+			"RM-96919": {
+				"release_version": "1.54",
+				"component": {
+					"jobs/LOT_File_Upload~cbs": {
+						"commit_ids": ["39cd794"]
+					}
+				},
+				"deployed_time": "2018_06_06_15_43_38"
+			}
+		}
+	}, {
+		"_id": "EOS - 112",
+		"RM_ID": {
+			"RM-97953": {
+				"release_version": "1.30",
+				"component": {
+					"globals_appsrv_DMM_tux~cbs": {
+						"commit_ids": ["13a5103"]
+					}
+				},
+				"deployed_time": "2018_05_31_16_55_40"
+			}
+		}
+	}]
